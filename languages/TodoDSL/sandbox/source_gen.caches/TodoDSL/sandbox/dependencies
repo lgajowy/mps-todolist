@@ -2,13 +2,15 @@
 <dependenciesRoot>
   <dependency className="TodoDSL.sandbox.TodoList" file="TodoList.java">
     <classNode dependClassName="java.awt.Dimension" />
+    <classNode dependClassName="java.awt.event.MouseAdapter" />
+    <classNode dependClassName="java.awt.event.MouseEvent" />
     <classNode dependClassName="java.lang.Boolean" />
     <classNode dependClassName="java.lang.Class" />
+    <classNode dependClassName="java.lang.Integer" />
     <classNode dependClassName="java.lang.Object" />
     <classNode dependClassName="java.lang.Runnable" />
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="javax.swing.JFrame" />
-    <classNode dependClassName="javax.swing.JLabel" />
     <classNode dependClassName="javax.swing.JScrollPane" />
     <classNode dependClassName="javax.swing.JTable" />
     <classNode dependClassName="javax.swing.SwingUtilities" />
