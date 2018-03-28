@@ -13,6 +13,7 @@
         <child id="5024649349015029686" name="stuffToDo" index="1liQh0" />
       </concept>
       <concept id="5024649349015029688" name="TodoDSL.structure.Todo" flags="ng" index="1liQhe">
+        <property id="5024649349015029693" name="priority" index="1liQhb" />
         <property id="5024649349015029691" name="description" index="1liQhd" />
       </concept>
     </language>
@@ -23,19 +24,22 @@
     </language>
   </registry>
   <node concept="2_JAAZ" id="4mV8ZogVYJb">
-    <property role="1liQht" value="today" />
+    <property role="1liQht" value="21-01-2018" />
     <property role="1liQhr" value="YELLOW" />
     <node concept="1liQhe" id="4mV8Zoh5xnj" role="1liQh0">
-      <property role="TrG5h" value="name" />
-      <property role="1liQhd" value="asda" />
+      <property role="TrG5h" value="Do the dishes" />
+      <property role="1liQhd" value="Put 'em in the machine." />
+      <property role="1liQhb" value="LOW" />
     </node>
     <node concept="1liQhe" id="4mV8Zoh7K19" role="1liQh0">
-      <property role="TrG5h" value="xyz" />
-      <property role="1liQhd" value="asdasdasdasdasdasdasd" />
+      <property role="TrG5h" value="Laundry" />
+      <property role="1liQhd" value="Do the laundry!" />
+      <property role="1liQhb" value="MEDIUM" />
     </node>
     <node concept="1liQhe" id="4mV8Zoh7K1c" role="1liQh0">
-      <property role="TrG5h" value="asd" />
-      <property role="1liQhd" value="dsa" />
+      <property role="TrG5h" value="Make macaroni and cheese" />
+      <property role="1liQhd" value="Put cheese into macaroni!!" />
+      <property role="1liQhb" value="EXTREME" />
     </node>
   </node>
 </model>

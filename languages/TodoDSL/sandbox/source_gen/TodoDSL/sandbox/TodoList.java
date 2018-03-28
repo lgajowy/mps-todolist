@@ -29,7 +29,7 @@ public class TodoList {
     JTable table = createDataTable();
     addClickingListener(table, frame);
     JPanel labelPanel = new JPanel();
-    labelPanel.add(new JLabel("today"));
+    labelPanel.add(new JLabel("21-01-2018"));
     JScrollPane scrollPane = new JScrollPane(table);
 
     TodoList.setBackgroundColor(labelPanel, scrollPane);
@@ -50,7 +50,7 @@ public class TodoList {
   private static JTable createDataTable() {
     String[] columns = new String[]{"name", "description", "priority", "is done yet?"};
 
-    Object[][] data = new Object[][]{{"name", "asda", "LOW", false}, {"xyz", "asdasdasdasdasdasdasd", "LOW", false}, {"asd", "dsa", "LOW", false}};
+    Object[][] data = new Object[][]{{"Do the dishes", "Put 'em in the machine.", "LOW", false}, {"Laundry", "Do the laundry!", "MEDIUM", false}, {"Make macaroni and cheese", "Put cheese into macaroni!!", "EXTREME", false}};
 
     return TodoList.setupTable(data, columns);
   }
