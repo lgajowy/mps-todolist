@@ -17,7 +17,7 @@
       <unit at="10,0,30,0" name="TodoDSL.structure.LanguageConceptSwitch" />
     </file>
     <file name="StructureAspectDescriptor.java">
-      <unit at="14,0,66,0" name="TodoDSL.structure.StructureAspectDescriptor" />
+      <unit at="14,0,65,0" name="TodoDSL.structure.StructureAspectDescriptor" />
     </file>
   </root>
   <root nodeRef="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349015029696">
@@ -136,6 +136,120 @@
         <var name="value" id="5024649349015029696" />
       </scope>
       <unit id="5024649349015029696" at="9,0,44,0" name="TodoDSL.structure.Priority_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017831555">
+    <file name="Color.java">
+      <node id="5024649349017831555" at="14,0,15,0" concept="2" trace="myName" />
+      <node id="5024649349017831555" at="15,27,16,18" concept="6" />
+      <node id="5024649349017831555" at="18,0,19,0" concept="2" trace="myValue" />
+      <node id="5024649349017831555" at="19,44,20,18" concept="1" />
+      <node id="5024649349017831555" at="20,18,21,20" concept="1" />
+      <node id="5024649349017831555" at="23,28,24,19" concept="6" />
+      <node id="5024649349017831555" at="26,36,27,19" concept="6" />
+      <node id="5024649349017831555" at="29,44,30,70" concept="5" />
+      <node id="5024649349017831555" at="30,70,31,54" concept="1" />
+      <node id="5024649349017831555" at="31,54,32,55" concept="1" />
+      <node id="5024649349017831555" at="32,55,33,57" concept="1" />
+      <node id="5024649349017831555" at="33,57,34,16" concept="6" />
+      <node id="5024649349017831555" at="36,36,37,21" concept="6" />
+      <node id="5024649349017831555" at="40,24,41,32" concept="6" />
+      <node id="5024649349017831555" at="43,53,44,23" concept="6" />
+      <node id="5024649349017831555" at="46,54,47,24" concept="6" />
+      <node id="5024649349017831555" at="49,56,50,26" concept="6" />
+      <node id="5024649349017831555" at="51,5,52,30" concept="6" />
+      <node id="5024649349017831555" at="15,0,18,0" concept="4" trace="getName#()Ljava/lang/String;" />
+      <node id="5024649349017831555" at="23,0,26,0" concept="4" trace="getValue#()Ljava/lang/String;" />
+      <node id="5024649349017831555" at="26,0,29,0" concept="4" trace="getValueAsString#()Ljava/lang/String;" />
+      <node id="5024649349017831555" at="36,0,39,0" concept="7" trace="getDefault#()LTodoDSL/structure/Color;" />
+      <node id="5024649349017831555" at="39,48,42,5" concept="3" />
+      <node id="5024649349017831555" at="42,5,45,5" concept="3" />
+      <node id="5024649349017831555" at="45,5,48,5" concept="3" />
+      <node id="5024649349017831555" at="48,5,51,5" concept="3" />
+      <node id="5024649349017831555" at="19,0,23,0" concept="0" trace="Color#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="5024649349017831555" at="29,0,36,0" concept="7" trace="getConstants#()Ljava/util/List;" />
+      <node id="5024649349017831555" at="39,0,54,0" concept="7" trace="parseValue#(Ljava/lang/String;)LTodoDSL/structure/Color;" />
+      <scope id="5024649349017831555" at="15,27,16,18" />
+      <scope id="5024649349017831555" at="23,28,24,19" />
+      <scope id="5024649349017831555" at="26,36,27,19" />
+      <scope id="5024649349017831555" at="36,36,37,21" />
+      <scope id="5024649349017831555" at="40,24,41,32" />
+      <scope id="5024649349017831555" at="43,53,44,23" />
+      <scope id="5024649349017831555" at="46,54,47,24" />
+      <scope id="5024649349017831555" at="49,56,50,26" />
+      <scope id="5024649349017831555" at="19,44,21,20" />
+      <scope id="5024649349017831555" at="15,0,18,0" />
+      <scope id="5024649349017831555" at="23,0,26,0" />
+      <scope id="5024649349017831555" at="26,0,29,0" />
+      <scope id="5024649349017831555" at="36,0,39,0" />
+      <scope id="5024649349017831555" at="19,0,23,0">
+        <var name="name" id="5024649349017831555" />
+        <var name="value" id="5024649349017831555" />
+      </scope>
+      <scope id="5024649349017831555" at="29,44,34,16">
+        <var name="list" id="5024649349017831555" />
+      </scope>
+      <scope id="5024649349017831555" at="29,0,36,0" />
+      <scope id="5024649349017831555" at="39,48,52,30" />
+      <scope id="5024649349017831555" at="39,0,54,0">
+        <var name="value" id="5024649349017831555" />
+      </scope>
+      <unit id="5024649349017831555" at="9,0,55,0" name="TodoDSL.structure.Color" />
+    </file>
+    <file name="Color_PropertySupport.java">
+      <node id="5024649349017831555" at="11,24,12,18" concept="6" />
+      <node id="5024649349017831555" at="13,5,14,87" concept="5" />
+      <node id="5024649349017831555" at="15,33,16,40" concept="5" />
+      <node id="5024649349017831555" at="17,45,18,20" concept="6" />
+      <node id="5024649349017831555" at="20,5,21,17" concept="6" />
+      <node id="5024649349017831555" at="24,24,25,18" concept="6" />
+      <node id="5024649349017831555" at="26,5,27,87" concept="5" />
+      <node id="5024649349017831555" at="28,33,29,40" concept="5" />
+      <node id="5024649349017831555" at="30,45,31,43" concept="6" />
+      <node id="5024649349017831555" at="33,5,34,16" concept="6" />
+      <node id="5024649349017831555" at="36,49,37,45" concept="5" />
+      <node id="5024649349017831555" at="38,27,39,32" concept="6" />
+      <node id="5024649349017831555" at="40,5,41,14" concept="6" />
+      <node id="5024649349017831555" at="10,44,13,5" concept="3" />
+      <node id="5024649349017831555" at="16,40,19,7" concept="3" />
+      <node id="5024649349017831555" at="23,47,26,5" concept="3" />
+      <node id="5024649349017831555" at="29,40,32,7" concept="3" />
+      <node id="5024649349017831555" at="37,45,40,5" concept="3" />
+      <node id="5024649349017831555" at="14,87,20,5" concept="8" />
+      <node id="5024649349017831555" at="27,87,33,5" concept="8" />
+      <node id="5024649349017831555" at="36,0,43,0" concept="4" trace="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <node id="5024649349017831555" at="10,0,23,0" concept="4" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <node id="5024649349017831555" at="23,0,36,0" concept="4" trace="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <scope id="5024649349017831555" at="11,24,12,18" />
+      <scope id="5024649349017831555" at="17,45,18,20" />
+      <scope id="5024649349017831555" at="24,24,25,18" />
+      <scope id="5024649349017831555" at="30,45,31,43" />
+      <scope id="5024649349017831555" at="38,27,39,32" />
+      <scope id="5024649349017831555" at="15,33,19,7">
+        <var name="constant" id="5024649349017831555" />
+      </scope>
+      <scope id="5024649349017831555" at="28,33,32,7">
+        <var name="constant" id="5024649349017831555" />
+      </scope>
+      <scope id="5024649349017831555" at="36,49,41,14">
+        <var name="constant" id="5024649349017831555" />
+      </scope>
+      <scope id="5024649349017831555" at="36,0,43,0">
+        <var name="value" id="5024649349017831555" />
+      </scope>
+      <scope id="5024649349017831555" at="10,44,21,17">
+        <var name="constants" id="5024649349017831555" />
+      </scope>
+      <scope id="5024649349017831555" at="23,47,34,16">
+        <var name="constants" id="5024649349017831555" />
+      </scope>
+      <scope id="5024649349017831555" at="10,0,23,0">
+        <var name="value" id="5024649349017831555" />
+      </scope>
+      <scope id="5024649349017831555" at="23,0,36,0">
+        <var name="value" id="5024649349017831555" />
+      </scope>
+      <unit id="5024649349017831555" at="9,0,44,0" name="TodoDSL.structure.Color_PropertySupport" />
     </file>
   </root>
 </debug-info>

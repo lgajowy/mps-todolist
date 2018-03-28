@@ -7,16 +7,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce78f182-a97c-47d6-ae27-a18b50da5489" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/structure/StructureAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/structure/StructureAspectDescriptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/classes_gen/main/QueriesGenerated$PVQ.class" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/classes_gen/main/QueriesGenerated$PVQ.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/classes_gen/main/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/classes_gen/main/QueriesGenerated.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/TodoList$1.class" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/TodoList$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/TodoList$2.class" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/TodoList$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/TodoList$3.class" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/TodoList$3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/TodoList.class" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/TodoList.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/structure/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/structure/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/classes_gen/main/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/classes_gen/main/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen.caches/main/dependencies" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen.caches/main/dependencies" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen.caches/main/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen.caches/main/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen/main/QueriesGenerated.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen/main/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen/main/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/template/main@generator.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/models/structure.mps" afterPath="$PROJECT_DIR$/languages/TodoDSL/models/structure.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/models/TodoDSL.sandbox.mps" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/models/TodoDSL.sandbox.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen.caches/TodoDSL/sandbox/dependencies" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen.caches/TodoDSL/sandbox/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen.caches/TodoDSL/sandbox/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen.caches/TodoDSL/sandbox/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/TodoList.java" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/TodoList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/structure/dependencies" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/structure/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/structure/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/structure/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/structure/StructureAspectDescriptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/structure/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/structure/trace.info" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,136 +113,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="TodoList" pinned="false" current-in-tab="true">
-        <entry file="mps://node://TodoDSL/TodoDSL.structure/TodoList">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="225">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="71" />
-                    <property name="caretXRelative" value="8" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_zedcwq_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015710840" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015714247" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017089875" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016038469" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_msf9u8_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015714245" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_msf9u8_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017089873" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_msf9u8_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016024362" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015355913" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017089864" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015792294" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016663213" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
-                <restoreAlways>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015355913" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </restoreAlways>
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015710840" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015355909" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main" pinned="false" current-in-tab="false">
-        <entry file="mps://node://TodoDSL#884133048096577896/main@generator/main">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="301" />
-                    <property name="caretXRelative" value="24" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="templateName" cellNumber="0" isInList="false">
-                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/884133048096619556" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="refNodeList_dropAttrubuteRule" cellNumber="0" isInList="false">
-                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/884133048096577897" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015710840" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TodoList" pinned="false" current-in-tab="false">
         <entry file="mps://node://TodoDSL.sandbox/TodoDSL.sandbox/TodoList">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -233,11 +120,11 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="175" />
-                    <property name="caretXRelative" value="32" />
+                    <property name="caretX" value="63" />
+                    <property name="caretXRelative" value="0" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_isDone" cellNumber="0" isInList="false">
-                      <node node_reference="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015059110" />
+                    <cellInfo cellId="constant_6" cellNumber="0" isInList="false">
+                      <node node_reference="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349018091596" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -246,7 +133,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015710840" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349018091596" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -371,20 +258,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="297ec239-6c48-4eea-bc6b-bc22570d94c6(TodoDSL)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TodoDSL#884133048096577896" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="ae3c42bf-f6a1-47c5-80b7-70d6a4e5d51d" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -403,7 +276,59 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="297ec239-6c48-4eea-bc6b-bc22570d94c6(TodoDSL)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TodoDSL#884133048096577896" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="297ec239-6c48-4eea-bc6b-bc22570d94c6(TodoDSL)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="ae3c42bf-f6a1-47c5-80b7-70d6a4e5d51d" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ae3c42bf-f6a1-47c5-80b7-70d6a4e5d51d" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TodoDSL" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="297ec239-6c48-4eea-bc6b-bc22570d94c6(TodoDSL)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure) in IdeaFile{file:///Users/lukasz/MPSProjects/TodoLists/languages/TodoDSL/models/structure.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -430,16 +355,8 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="297ec239-6c48-4eea-bc6b-bc22570d94c6(TodoDSL)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure) in IdeaFile{file:///Users/lukasz/MPSProjects/TodoLists/languages/TodoDSL/models/structure.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
           </PATH>
-          <PATH>
+          <SELECTED>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
@@ -452,38 +369,12 @@
               <option name="myItemId" value="TodoDSL" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
+              <option name="myItemId" value="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox) in IdeaFile{file:///Users/lukasz/MPSProjects/TodoLists/languages/TodoDSL/sandbox/models/TodoDSL.sandbox.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="297ec239-6c48-4eea-bc6b-bc22570d94c6(TodoDSL)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <SELECTED>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="297ec239-6c48-4eea-bc6b-bc22570d94c6(TodoDSL)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure) in IdeaFile{file:///Users/lukasz/MPSProjects/TodoLists/languages/TodoDSL/models/structure.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="5024649349015029696" />
+              <option name="myItemId" value="5024649349015006155" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
@@ -526,7 +417,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Java Application.Node TodoDSL.sandbox.TodoList$3 (3)">
+  <component name="RunManager" selected="Java Application.Node TodoDSL.sandbox.TodoList$3 (5)">
     <configuration name="Node TodoDSL.sandbox.TodoList$3 (1)" type="Java Application" factoryName="Java" temporary="true">
       <MyState />
       <myNode>
@@ -593,7 +484,7 @@
         </MyState>
       </myRunParameters>
     </configuration>
-    <configuration name="Node TodoDSL.sandbox.TodoList$3 (5)" type="Java Application" factoryName="Java" temporary="true">
+    <configuration name="Node TodoDSL.sandbox.TodoList$3 (4)" type="Java Application" factoryName="Java" temporary="true">
       <MyState />
       <myNode>
         <MyState>
@@ -615,7 +506,7 @@
         </MyState>
       </myRunParameters>
     </configuration>
-    <configuration name="Node TodoDSL.sandbox.TodoList$3" type="Java Application" factoryName="Java" temporary="true">
+    <configuration name="Node TodoDSL.sandbox.TodoList$3 (5)" type="Java Application" factoryName="Java" temporary="true">
       <MyState />
       <myNode>
         <MyState>
@@ -1518,19 +1409,19 @@
       </myJavaRunParameters>
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (5)" />
-      <item index="1" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3" />
-      <item index="2" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (3)" />
+      <item index="0" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (4)" />
+      <item index="4" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (5)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3" />
-        <item index="4" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (5)" />
+        <item index="0" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (5)" />
+        <item index="1" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (4)" />
+        <item index="2" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -1542,9 +1433,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1681" y="-157" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.49375" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.48958334" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Menu Trace" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1553,21 +1445,21 @@
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936507" sideWeight="0.54375" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936507" sideWeight="0.55833334" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.45416668" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.43541667" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936507" sideWeight="0.45625" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936507" sideWeight="0.44166666" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.49375" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1767,38 +1659,6 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://TodoDSL/TodoDSL.structure/Todo">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="199" />
-                <property name="caretXRelative" value="56" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349015029710" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349015029710" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349015029688" />
         </state>
       </provider>
     </entry>
@@ -3411,18 +3271,172 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://TodoDSL.sandbox/TodoDSL.sandbox/TodoList">
+    <entry file="mps://node://TodoDSL/TodoDSL.structure/&lt;no name&gt;[ConceptDeclaration]">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="175" />
-                <property name="caretXRelative" value="32" />
+                <property name="caretX" value="79" />
+                <property name="caretXRelative" value="0" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_isDone" cellNumber="0" isInList="false">
-                  <node node_reference="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015059110" />
+                <cellInfo cellId="name" cellNumber="0" isInList="false">
+                  <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772391" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="name" cellNumber="0" isInList="false">
+                <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772391" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772391" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772391" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL/TodoDSL.structure/&lt;no name&gt;[ConceptDeclaration]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="79" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name" cellNumber="0" isInList="false">
+                  <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772391" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="name" cellNumber="0" isInList="false">
+                <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772391" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772391" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772391" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL/TodoDSL.structure/&lt;no name&gt;[EnumerationDataTypeDeclaration]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="183" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772527" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_name" cellNumber="0" isInList="false">
+                <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772527" />
+              </errorMarker>
+              <errorMarker text="" propertyCell="false" cellId="empty_memberDataType" cellNumber="0" isInList="false">
+                <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772527" />
+              </errorMarker>
+              <errorMarker text="" propertyCell="true" cellId="property_externalValue" cellNumber="0" isInList="false">
+                <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772528" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772527" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL/TodoDSL.structure/&lt;no name&gt;[EnumerationDataTypeDeclaration]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="183" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772527" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_name" cellNumber="0" isInList="false">
+                <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772527" />
+              </errorMarker>
+              <errorMarker text="" propertyCell="false" cellId="empty_memberDataType" cellNumber="0" isInList="false">
+                <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772527" />
+              </errorMarker>
+              <errorMarker text="" propertyCell="true" cellId="property_externalValue" cellNumber="0" isInList="false">
+                <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772528" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772527" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL/TodoDSL.structure/Colour">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="305" />
+                <property name="caretXRelative" value="48" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_externalValue" cellNumber="0" isInList="false">
+                  <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772559" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -3431,7 +3445,436 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015710840" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017772559" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://JDK/java.awt@java_stub/Frame">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="1414">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="247" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ReferencePresentation_91bvrs_a0a0" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/5024649349015600915" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame$AccessibleAWTFrame.getAccessibleStateSet%28%29:javax.accessibility.AccessibleStateSet" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame$AccessibleAWTFrame.getAccessibleRole%28%29:javax.accessibility.AccessibleRole" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame$AccessibleAWTFrame.&lt;init&gt;%28java.awt.Frame%29" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.getCursorType%28%29:int" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.getCursorType%28%29:int" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.setCursor%28int%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.setCursor%28int%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.MOVE_CURSOR" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.HAND_CURSOR" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.E_RESIZE_CURSOR" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.W_RESIZE_CURSOR" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.S_RESIZE_CURSOR" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.N_RESIZE_CURSOR" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.NE_RESIZE_CURSOR" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.NW_RESIZE_CURSOR" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.SE_RESIZE_CURSOR" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.SW_RESIZE_CURSOR" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.WAIT_CURSOR" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.TEXT_CURSOR" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.CROSSHAIR_CURSOR" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.DEFAULT_CURSOR" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_uj0cpq_l0" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame$AccessibleAWTFrame" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.getFrames%28%29:java.awt.Frame[]" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.getAccessibleContext%28%29:javax.accessibility.AccessibleContext" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="commentCollection" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/5024649349015600945" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="commentCollection" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/5024649349015600935" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.paramString%28%29:java.lang.String" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.removeNotify%28%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.remove%28java.awt.MenuComponent%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.setBackground%28java.awt.Color%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.setShape%28java.awt.Shape%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.setOpacity%28float%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.isUndecorated%28%29:boolean" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.setUndecorated%28boolean%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.getMaximizedBounds%28%29:java.awt.Rectangle" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.setMaximizedBounds%28java.awt.Rectangle%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.getExtendedState%28%29:int" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.getState%28%29:int" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.setExtendedState%28int%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.setState%28int%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.setResizable%28boolean%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.isResizable%28%29:boolean" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.setMenuBar%28java.awt.MenuBar%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.getMenuBar%28%29:java.awt.MenuBar" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.setIconImage%28java.awt.Image%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.getIconImage%28%29:java.awt.Image" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.setTitle%28java.lang.String%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.getTitle%28%29:java.lang.String" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.addNotify%28%29:void" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.&lt;init&gt;%28java.lang.String,java.awt.GraphicsConfiguration%29" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.&lt;init&gt;%28java.lang.String%29" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.&lt;init&gt;%28java.awt.GraphicsConfiguration%29" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Frame.&lt;init&gt;%28%29" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/5024649349015600915" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL/TodoDSL.structure/Colour">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL/TodoDSL.structure/Colour">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL#884133048096577896/main@generator/&lt;no name&gt;[TemplateSwitch]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL#884133048096577896/main@generator/&lt;no name&gt;[TemplateSwitch]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="143" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017901403" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_name" cellNumber="0" isInList="false">
+                <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017901403" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017901403" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL#884133048096577896/main@generator/&lt;no name&gt;[TemplateSwitch]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="143" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017901403" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="property_name" cellNumber="0" isInList="false">
+                <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017901403" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017901403" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -3444,16 +3887,16 @@
     </entry>
     <entry file="mps://node://TodoDSL#884133048096577896/main@generator/main">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="46">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="301" />
-                <property name="caretXRelative" value="24" />
+                <property name="caretX" value="31" />
+                <property name="caretXRelative" value="0" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="templateName" cellNumber="0" isInList="false">
-                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/884133048096619556" />
+                <cellInfo cellId="empty_weavingMappingRule" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/884133048096577897" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -3468,7 +3911,327 @@
             </foldable>
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015710840" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/884133048096577897" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://JDK/java.awt@java_stub/Color">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <property name="caretXRelative" value="-31" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_t6d1qn_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.BLUE" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getHSBColor%28float,float,float%29:java.awt.Color" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.RGBtoHSB%28int,int,int,float[]%29:float[]" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.HSBtoRGB%28float,float,float%29:int" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getColor%28java.lang.String,int%29:java.awt.Color" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getColor%28java.lang.String,java.awt.Color%29:java.awt.Color" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getColor%28java.lang.String%29:java.awt.Color" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.decode%28java.lang.String%29:java.awt.Color" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getTransparency%28%29:int" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.createContext%28java.awt.image.ColorModel,java.awt.Rectangle,java.awt.geom.Rectangle2D,java.awt.geom.AffineTransform,java.awt.RenderingHints%29:java.awt.PaintContext" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getColorSpace%28%29:java.awt.color.ColorSpace" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getColorComponents%28java.awt.color.ColorSpace,float[]%29:float[]" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getComponents%28java.awt.color.ColorSpace,float[]%29:float[]" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getColorComponents%28float[]%29:float[]" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getComponents%28float[]%29:float[]" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getRGBColorComponents%28float[]%29:float[]" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getRGBComponents%28float[]%29:float[]" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.toString%28%29:java.lang.String" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.equals%28java.lang.Object%29:boolean" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.hashCode%28%29:int" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.darker%28%29:java.awt.Color" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.brighter%28%29:java.awt.Color" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getRGB%28%29:int" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getAlpha%28%29:int" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getBlue%28%29:int" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getGreen%28%29:int" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.getRed%28%29:int" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.&lt;init&gt;%28java.awt.color.ColorSpace,float[],float%29" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.&lt;init&gt;%28float,float,float,float%29" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.&lt;init&gt;%28float,float,float%29" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.&lt;init&gt;%28int,boolean%29" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.&lt;init&gt;%28int%29" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.&lt;init&gt;%28int,int,int,int%29" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.&lt;init&gt;%28int,int,int,int%29" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.&lt;init&gt;%28int,int,int%29" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.BLUE" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <property name="caretXRelative" value="-15" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_t6d1qn_a_0" cellNumber="0" isInList="false">
+                  <node node_reference="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt(JDK/)/~Color.BLUE" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL/TodoDSL.structure/Todo">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="183" />
+                <property name="caretXRelative" value="40" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349015029691" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349018017900" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349015029688" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL/TodoDSL.structure/Color">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="281" />
+                <property name="caretXRelative" value="24" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_externalValue" cellNumber="0" isInList="false">
+                  <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349017831556" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349018017900" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL#884133048096577896/main@generator/ColorSwitch">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="693" />
+                <property name="caretXRelative" value="48" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349018017900" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349018015644" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017953977" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017901435" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349018017900" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -3481,16 +4244,16 @@
     </entry>
     <entry file="mps://node://TodoDSL/TodoDSL.structure/TodoList">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="225">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
+                <property name="caretX" value="314" />
                 <property name="caretXRelative" value="8" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_zedcwq_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015710840" />
+                <cellInfo cellId="Constant_y9czm0_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016678646" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -3508,11 +4271,6 @@
                 </cellIdElement>
               </collapsedElement>
               <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016038469" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
                 <cellIdElement cellId="Collection_msf9u8_b0" cellNumber="0" isInList="false">
                   <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015714245" />
                 </cellIdElement>
@@ -3523,8 +4281,13 @@
                 </cellIdElement>
               </collapsedElement>
               <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017760468" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
                 <cellIdElement cellId="Collection_msf9u8_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016024362" />
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017760467" />
                 </cellIdElement>
               </collapsedElement>
               <collapsedElement isCollapsed="false">
@@ -3535,6 +4298,11 @@
               <collapsedElement isCollapsed="false">
                 <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
                   <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017089864" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349017760514" />
                 </cellIdElement>
               </collapsedElement>
               <collapsedElement isCollapsed="false">
@@ -3551,12 +4319,12 @@
             <restoreAlways>
               <collapsedElement isCollapsed="false">
                 <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015355913" />
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016663213" />
                 </cellIdElement>
               </collapsedElement>
             </restoreAlways>
           </memento>
-          <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015710840" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016678646" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -3565,6 +4333,37 @@
             <enabledHints />
           </inspectorMemento>
           <node node_ref="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015355909" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL.sandbox/TodoDSL.sandbox/TodoList">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="63" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="constant_6" cellNumber="0" isInList="false">
+                  <node node_reference="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349018091596" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349018091596" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
         </state>
       </provider>
     </entry>

@@ -49,7 +49,6 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.origin("r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349015029688");
     b.prop("description", 0x45bb23f610f047bbL, "5024649349015029691");
     b.prop("priority", 0x45bb23f610f047bdL, "5024649349015029693");
-    b.prop("isDone", 0x45bb23f610f047ceL, "5024649349015029710");
     return b.create();
   }
   private static ConceptDescriptor createDescriptorForTodoList() {
@@ -58,7 +57,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.parent(0x4caf0310491e41f5L, 0x8a9b2006b3a94898L, 0x40c1a7cb987d20d5L);
     b.origin("r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/884133048096619501");
     b.prop("date", 0x45bb23f610f047abL, "5024649349015029675");
-    b.prop("theme", 0x45bb23f610f047adL, "5024649349015029677");
+    b.prop("background", 0x45bb23f610f047adL, "5024649349015029677");
     b.aggregate("stuffToDo", 0x45bb23f610f047b6L).target(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0x45bb23f610f047b8L).optional(true).ordered(true).multiple(true).origin("5024649349015029686").done();
     return b.create();
   }

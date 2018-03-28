@@ -4,7 +4,11 @@ package TodoDSL.sandbox;
 
 import javax.swing.JFrame;
 import javax.swing.JTable;
+import javax.swing.JPanel;
+import javax.swing.JLabel;
+import java.awt.BorderLayout;
 import javax.swing.JScrollPane;
+import java.awt.Color;
 import java.awt.Dimension;
 import javax.swing.table.DefaultTableModel;
 import java.awt.event.MouseAdapter;
@@ -13,13 +17,22 @@ import javax.swing.SwingUtilities;
 
 public class TodoList {
 
-  private static void createAndShowGUI() {
+  private static void createListGUI() {
     JFrame frame = new JFrame();
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
     JTable table = createDataTable();
     addClickingListener(table, frame);
-    frame.add(new JScrollPane(table));
+
+    JPanel panel = new JPanel();
+    panel.add(new JLabel("today"));
+
+    frame.add(panel, BorderLayout.NORTH);
+    frame.add(new JScrollPane(table), BorderLayout.CENTER);
+
+    frame.setBackground(Color.RED);
+    panel.setBackground(Color.RED);
+    table.setBackground(Color.RED);
 
     frame.setTitle(String.format("%s tasks done, %s tasks total", 0, table.getRowCount()));
     frame.setSize(500, 500);
@@ -30,9 +43,15 @@ public class TodoList {
 
   private static JTable createDataTable() {
     String[] columns = new String[]{"name", "description", "priority", "is done yet?"};
-    Object[][] data = new Object[][]{{"xyz", "xyz", "xyz", false}, {"asd", "asd", "asd", false}};
+
+    Object[][] data = new Object[][]{{"name", "asda", "LOW", false}, {"xyz", "asd", "LOW", false}, {"asd", "dsa", "LOW", false}};
+
+    return TodoList.fillUpTheTable(data, columns);
+  }
+
+  private static JTable fillUpTheTable(Object[][] data, String[] columns) {
     DefaultTableModel model = new DefaultTableModel(data, columns);
-    final JTable table = new JTable(model) {
+    return new JTable(model) {
       public Class getColumnClass(int column) {
         switch (column) {
           case 0:
@@ -48,7 +67,6 @@ public class TodoList {
         }
       }
     };
-    return table;
   }
 
   public static void addClickingListener(final JTable table, final JFrame frame) {
@@ -71,7 +89,7 @@ public class TodoList {
   public static void main(String[] args) {
     SwingUtilities.invokeLater(new Runnable() {
       public void run() {
-        createAndShowGUI();
+        createListGUI();
       }
     });
   }

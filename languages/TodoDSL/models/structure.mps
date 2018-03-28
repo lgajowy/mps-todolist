@@ -62,8 +62,8 @@
     </node>
     <node concept="1TJgyi" id="4mV8ZogW4uH" role="1TKVEl">
       <property role="IQ2nx" value="5024649349015029677" />
-      <property role="TrG5h" value="theme" />
-      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
+      <property role="TrG5h" value="background" />
+      <ref role="AX2Wp" node="4mV8Zoh6Ky3" resolve="Color" />
     </node>
     <node concept="1TJgyj" id="4mV8ZogW4uQ" role="1TKVEi">
       <property role="IQ2ns" value="5024649349015029686" />
@@ -90,11 +90,6 @@
       <property role="TrG5h" value="priority" />
       <ref role="AX2Wp" node="4mV8ZogW4v0" resolve="Priority" />
     </node>
-    <node concept="1TJgyi" id="4mV8ZogW4ve" role="1TKVEl">
-      <property role="IQ2nx" value="5024649349015029710" />
-      <property role="TrG5h" value="isDone" />
-      <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
-    </node>
     <node concept="PrWs8" id="4mV8ZogW4uT" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
@@ -117,6 +112,22 @@
     <node concept="M4N5e" id="4mV8ZogW4v9" role="M5hS2">
       <property role="1uS6qv" value="EXTREME" />
       <property role="1uS6qo" value="EXTREME!" />
+    </node>
+  </node>
+  <node concept="AxPO7" id="4mV8Zoh6Ky3">
+    <property role="TrG5h" value="Color" />
+    <ref role="M4eZT" to="tpck:fKAOsGN" resolve="string" />
+    <node concept="M4N5e" id="4mV8Zoh6Ky4" role="M5hS2">
+      <property role="1uS6qo" value="red" />
+      <property role="1uS6qv" value="RED " />
+    </node>
+    <node concept="M4N5e" id="4mV8Zoh6Ky5" role="M5hS2">
+      <property role="1uS6qv" value="BLUE" />
+      <property role="1uS6qo" value="blue" />
+    </node>
+    <node concept="M4N5e" id="4mV8Zoh6Ky6" role="M5hS2">
+      <property role="1uS6qv" value="YELLOW" />
+      <property role="1uS6qo" value="yellow" />
     </node>
   </node>
 </model>

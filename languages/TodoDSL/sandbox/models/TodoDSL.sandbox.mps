@@ -8,13 +8,11 @@
   <registry>
     <language id="297ec239-6c48-4eea-bc6b-bc22570d94c6" name="TodoDSL">
       <concept id="884133048096619501" name="TodoDSL.structure.TodoList" flags="ng" index="2_JAAZ">
-        <property id="5024649349015029677" name="theme" index="1liQhr" />
+        <property id="5024649349015029677" name="background" index="1liQhr" />
         <property id="5024649349015029675" name="date" index="1liQht" />
         <child id="5024649349015029686" name="stuffToDo" index="1liQh0" />
       </concept>
       <concept id="5024649349015029688" name="TodoDSL.structure.Todo" flags="ng" index="1liQhe">
-        <property id="5024649349015029710" name="isDone" index="1liQgS" />
-        <property id="5024649349015029693" name="priority" index="1liQhb" />
         <property id="5024649349015029691" name="description" index="1liQhd" />
       </concept>
     </language>
@@ -26,12 +24,18 @@
   </registry>
   <node concept="2_JAAZ" id="4mV8ZogVYJb">
     <property role="1liQht" value="today" />
-    <property role="1liQhr" value="red" />
-    <node concept="1liQhe" id="4mV8ZogWbEA" role="1liQh0">
-      <property role="TrG5h" value="laundry" />
-      <property role="1liQhd" value="washie washie" />
-      <property role="1liQhb" value="EXTREME" />
-      <property role="1liQgS" value="true" />
+    <property role="1liQhr" value="RED " />
+    <node concept="1liQhe" id="4mV8Zoh5xnj" role="1liQh0">
+      <property role="TrG5h" value="name" />
+      <property role="1liQhd" value="asda" />
+    </node>
+    <node concept="1liQhe" id="4mV8Zoh7K19" role="1liQh0">
+      <property role="TrG5h" value="xyz" />
+      <property role="1liQhd" value="asd" />
+    </node>
+    <node concept="1liQhe" id="4mV8Zoh7K1c" role="1liQh0">
+      <property role="TrG5h" value="asd" />
+      <property role="1liQhd" value="dsa" />
     </node>
   </node>
 </model>
