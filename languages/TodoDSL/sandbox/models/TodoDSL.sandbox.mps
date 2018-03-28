@@ -3,6 +3,7 @@
   <persistence version="9" />
   <languages>
     <use id="297ec239-6c48-4eea-bc6b-bc22570d94c6" name="TodoDSL" version="-1" />
+    <engage id="0150cd00-d386-46f8-a8a4-5436fbf730d1" name="TodoDSL.swingGenerator" />
   </languages>
   <imports />
   <registry>
