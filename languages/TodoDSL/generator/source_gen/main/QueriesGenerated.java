@@ -9,6 +9,7 @@ import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
 import jetbrains.mps.smodel.adapter.structure.MetaAdapterFactory;
 import jetbrains.mps.generator.template.PropertyMacroContext;
 import jetbrains.mps.generator.template.IfMacroContext;
+import TodoDSL.behavior.TodoList__BehaviorDescriptor;
 import org.jetbrains.mps.openapi.model.SNode;
 import jetbrains.mps.generator.template.SourceSubstituteMacroNodesContext;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
@@ -58,7 +59,7 @@ public class QueriesGenerated extends QueryProviderBase {
     return !(SPropertyOperations.hasValue(_context.getNode(), MetaAdapterFactory.getProperty(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0xc451252a9fb7bedL, 0x45bb23f610f047adL, "background"), "DEFAULT", "RED "));
   }
   public static boolean ifMacro_Condition_5024649349018556720(final IfMacroContext _context) {
-    return !(SPropertyOperations.hasValue(_context.getNode(), MetaAdapterFactory.getProperty(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0xc451252a9fb7bedL, 0x45bb23f610f047adL, "background"), "DEFAULT", "RED "));
+    return !((boolean) TodoList__BehaviorDescriptor.isDefaultBackground_id4mV8Zohb_uW.invoke(_context.getNode()));
   }
   public static Iterable<SNode> sourceNodesQuery_5024649349017639366(final SourceSubstituteMacroNodesContext _context) {
     return SLinkOperations.getChildren(_context.getNode(), MetaAdapterFactory.getContainmentLink(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0xc451252a9fb7bedL, 0x45bb23f610f047b6L, "stuffToDo"));

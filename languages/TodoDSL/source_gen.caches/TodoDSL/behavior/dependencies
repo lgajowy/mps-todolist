@@ -13,7 +13,6 @@
   </dependency>
   <dependency className="TodoDSL.behavior.TodoList__BehaviorDescriptor" file="TodoList__BehaviorDescriptor.java">
     <classNode dependClassName="java.lang.Boolean" />
-    <classNode dependClassName="java.lang.Class" />
     <classNode dependClassName="java.lang.Object" />
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.util.Arrays" />

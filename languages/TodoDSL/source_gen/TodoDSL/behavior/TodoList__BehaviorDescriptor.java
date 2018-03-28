@@ -12,10 +12,10 @@ import jetbrains.mps.core.aspects.behaviour.SMethodBuilder;
 import jetbrains.mps.core.aspects.behaviour.SJavaCompoundTypeImpl;
 import jetbrains.mps.core.aspects.behaviour.SModifiersImpl;
 import jetbrains.mps.core.aspects.behaviour.AccessPrivileges;
-import org.jetbrains.mps.openapi.model.SNode;
 import java.util.List;
 import java.util.Arrays;
 import org.jetbrains.annotations.NotNull;
+import org.jetbrains.mps.openapi.model.SNode;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
 import jetbrains.mps.core.aspects.behaviour.api.SConstructor;
 import org.jetbrains.annotations.Nullable;
@@ -25,15 +25,15 @@ public final class TodoList__BehaviorDescriptor extends BaseBHDescriptor {
   private static final SAbstractConcept CONCEPT = MetaAdapterFactory.getConcept(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0xc451252a9fb7bedL, "TodoDSL.structure.TodoList");
   private static final BehaviorRegistry REGISTRY = ConceptRegistry.getInstance().getBehaviorRegistry();
 
-  public static final SMethod<Boolean> isDefaultBackground_id4mV8Zohb_uW = new SMethodBuilder<Boolean>(new SJavaCompoundTypeImpl(Boolean.TYPE)).name("isDefaultBackground").modifiers(SModifiersImpl.create(0, AccessPrivileges.PUBLIC)).concept(CONCEPT).id("4mV8Zohb_uW").registry(REGISTRY).build(SMethodBuilder.createJavaParameter((Class<SNode>) ((Class) Object.class), ""));
+  public static final SMethod<Boolean> isDefaultBackground_id4mV8Zohb_uW = new SMethodBuilder<Boolean>(new SJavaCompoundTypeImpl(Boolean.TYPE)).name("isDefaultBackground").modifiers(SModifiersImpl.create(0, AccessPrivileges.PUBLIC)).concept(CONCEPT).id("4mV8Zohb_uW").registry(REGISTRY).build();
 
   private static final List<SMethod<?>> BH_METHODS = Arrays.<SMethod<?>>asList(isDefaultBackground_id4mV8Zohb_uW);
 
   private static void ___init___(@NotNull SNode __thisNode__) {
   }
 
-  /*package*/ static boolean isDefaultBackground_id4mV8Zohb_uW(@NotNull SNode __thisNode__, SNode node) {
-    return SPropertyOperations.hasValue(node, MetaAdapterFactory.getProperty(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0xc451252a9fb7bedL, 0x45bb23f610f047adL, "background"), "DEFAULT", "RED ");
+  /*package*/ static boolean isDefaultBackground_id4mV8Zohb_uW(@NotNull SNode __thisNode__) {
+    return SPropertyOperations.hasValue(__thisNode__, MetaAdapterFactory.getProperty(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0xc451252a9fb7bedL, 0x45bb23f610f047adL, "background"), "DEFAULT", "RED ");
   }
 
   /*package*/ TodoList__BehaviorDescriptor() {
@@ -53,7 +53,7 @@ public final class TodoList__BehaviorDescriptor extends BaseBHDescriptor {
     }
     switch (methodIndex) {
       case 0:
-        return (T) ((Boolean) isDefaultBackground_id4mV8Zohb_uW(node, (SNode) parameters[0]));
+        return (T) ((Boolean) isDefaultBackground_id4mV8Zohb_uW(node));
       default:
         throw new BHMethodNotFoundException(this, method);
     }

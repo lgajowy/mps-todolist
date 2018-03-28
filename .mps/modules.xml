@@ -2,6 +2,7 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/AlternateTodoEditors/AlternateTodoEditors.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/TodoDSL/TodoDSL.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/TodoDSL/sandbox/TodoDSL.sandbox.msd" folder="" />
     </projectModules>
