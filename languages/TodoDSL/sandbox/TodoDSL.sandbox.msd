@@ -15,6 +15,7 @@
   </languageVersions>
   <dependencyVersions>
     <module reference="ae3c42bf-f6a1-47c5-80b7-70d6a4e5d51d(TodoDSL.sandbox)" version="0" />
+    <module reference="339dfc45-e1f0-4c18-bc87-554fc930e029(TodoDSL.sandbox)" version="0" />
   </dependencyVersions>
 </solution>
 

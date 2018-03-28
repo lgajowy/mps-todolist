@@ -29,7 +29,7 @@ public class TodoList {
     JTable table = createDataTable();
     addClickingListener(table, frame);
     JPanel labelPanel = new JPanel();
-    labelPanel.add(new JLabel("Fri Mar 23 00:00:00 CET 2018"));
+    labelPanel.add(new JLabel("Thu Mar 15 00:58:46 CET 2018"));
     JScrollPane scrollPane = new JScrollPane(table);
 
     TodoList.setBackgroundColor(labelPanel, scrollPane);

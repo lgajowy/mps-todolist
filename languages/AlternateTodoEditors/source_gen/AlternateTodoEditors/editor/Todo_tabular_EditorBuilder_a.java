@@ -7,8 +7,6 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.mps.openapi.model.SNode;
 import jetbrains.mps.openapi.editor.EditorContext;
 import jetbrains.mps.openapi.editor.cells.EditorCell;
-import jetbrains.mps.nodeEditor.cells.EditorCell_Collection;
-import jetbrains.mps.nodeEditor.cellLayout.CellLayout_Indent;
 import de.slisson.mps.tables.runtime.cells.ChildsTracker;
 import de.slisson.mps.tables.runtime.gridmodel.Grid;
 import jetbrains.mps.openapi.editor.style.Style;
@@ -16,6 +14,9 @@ import de.slisson.mps.tables.runtime.style.ITableStyleFactory;
 import jetbrains.mps.editor.runtime.style.StyleImpl;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Error;
 import de.slisson.mps.tables.runtime.cells.PartialTableEditor;
+import java.util.List;
+import java.util.ArrayList;
+import jetbrains.mps.internal.collections.runtime.ListSequence;
 import de.slisson.mps.tables.runtime.gridmodel.EditorCellGridLeaf;
 import jetbrains.mps.nodeEditor.cellProviders.CellProviderWithRole;
 import jetbrains.mps.lang.editor.cellProviders.PropertyCellProvider;
@@ -37,23 +38,15 @@ import jetbrains.mps.nodeEditor.EditorManager;
   }
 
   /*package*/ EditorCell createCell() {
-    return createCollection_otloqc_a();
+    return createPartialTable_otloqc_a_0();
   }
 
-  private EditorCell createCollection_otloqc_a() {
-    EditorCell_Collection editorCell = new EditorCell_Collection(getEditorContext(), myNode, new CellLayout_Indent());
-    editorCell.setCellId("Collection_otloqc_a");
-    editorCell.setBig(true);
-    editorCell.setCellContext(getCellFactory().getCellContext());
-    editorCell.addEditorCell(createPartialTable_otloqc_a0_0());
-    return editorCell;
-  }
-  private jetbrains.mps.nodeEditor.cells.EditorCell createPartialTable_otloqc_a0(final EditorContext editorContext, final SNode node) {
+  private jetbrains.mps.nodeEditor.cells.EditorCell createPartialTable_otloqc_a(final EditorContext editorContext, final SNode node) {
     ChildsTracker childsTracker = null;
 
     try {
       ChildsTracker.pushNewInstance();
-      final Grid grid = createTableCell_otloqc_a0a(editorContext, node);
+      final Grid grid = createStaticHorizontal_otloqc_a0(editorContext, node);
       final Style style = new ITableStyleFactory() {
         public Style createStyle(final int columnIndex, final int rowIndex) {
           Style style = new StyleImpl();
@@ -70,7 +63,9 @@ import jetbrains.mps.nodeEditor.EditorManager;
       ChildsTracker.getInstance().registerChild(editorCell);
       editorCell.initChilds(childsTracker);
 
-      editorCell.setCellId("PartialTable_otloqc_a0");
+      editorCell.setCellId("PartialTable_otloqc_a");
+      editorCell.setBig(true);
+      editorCell.setCellContext(getCellFactory().getCellContext());
       editorCell.init();
       return editorCell;
     } catch (RuntimeException ex) {
@@ -80,8 +75,40 @@ import jetbrains.mps.nodeEditor.EditorManager;
       throw ex;
     }
   }
-  private EditorCell createPartialTable_otloqc_a0_0() {
-    return createPartialTable_otloqc_a0(getEditorContext(), myNode);
+  private EditorCell createPartialTable_otloqc_a_0() {
+    return createPartialTable_otloqc_a(getEditorContext(), myNode);
+  }
+  public Grid createStaticHorizontal_otloqc_a0(final EditorContext editorContext, final SNode node) {
+    Grid grid = new Grid();
+
+    List<Grid> children = new ArrayList<Grid>(3);
+    if (true) {
+      children.add(createTableCell_otloqc_a0a(editorContext, node));
+    }
+    if (true) {
+      children.add(createTableCell_otloqc_b0a(editorContext, node));
+    }
+    if (true) {
+      children.add(createTableCell_otloqc_c0a(editorContext, node));
+    }
+    int maxHeight = grid.getRowHeadersSizeY();
+    for (Grid child : ListSequence.fromList(children)) {
+      maxHeight = Math.max(maxHeight, child.getSizeY());
+    }
+    for (int x = 0; x < children.size(); x++) {
+      if (maxHeight > 0) {
+        children.get(x).setSpanY(maxHeight);
+      }
+      grid.setElement(x, 0, children.get(x));
+    }
+    final Style style = new ITableStyleFactory() {
+      public Style createStyle(final int columnIndex, final int rowIndex) {
+        Style style = new StyleImpl();
+        return style;
+      }
+    }.createStyle(0, 0);
+    grid.setStyle(style);
+    return grid;
   }
   public Grid createTableCell_otloqc_a0a(final EditorContext editorContext, final SNode node) {
 
@@ -112,6 +139,80 @@ import jetbrains.mps.nodeEditor.EditorManager;
     EditorCell editorCell;
     editorCell = provider.createEditorCell(getEditorContext());
     editorCell.setCellId("property_name");
+    editorCell.setSubstituteInfo(provider.createDefaultSubstituteInfo());
+    SNode attributeConcept = provider.getRoleAttribute();
+    if (attributeConcept != null) {
+      EditorManager manager = EditorManager.getInstanceFromContext(getEditorContext());
+      return manager.createNodeRoleAttributeCell(attributeConcept, provider.getRoleAttributeKind(), editorCell);
+    } else
+    return editorCell;
+  }
+  public Grid createTableCell_otloqc_b0a(final EditorContext editorContext, final SNode node) {
+
+    EditorCell cell = createProperty_otloqc_a1a0();
+    final Style style = new ITableStyleFactory() {
+      public Style createStyle(final int columnIndex, final int rowIndex) {
+        Style style = new StyleImpl();
+        return style;
+      }
+    }.createStyle(0, 0);
+
+    Grid grid;
+    if (cell instanceof PartialTableEditor) {
+      grid = ((PartialTableEditor) cell).getGrid().clone();
+    } else {
+      grid = new Grid();
+      EditorCellGridLeaf leaf = new EditorCellGridLeaf(cell);
+      leaf.setStyle(style);
+      grid.setElement(0, 0, leaf);
+    }
+
+    return grid;
+  }
+  private EditorCell createProperty_otloqc_a1a0() {
+    CellProviderWithRole provider = new PropertyCellProvider(myNode, getEditorContext());
+    provider.setRole("description");
+    provider.setNoTargetText("<no description>");
+    EditorCell editorCell;
+    editorCell = provider.createEditorCell(getEditorContext());
+    editorCell.setCellId("property_description");
+    editorCell.setSubstituteInfo(provider.createDefaultSubstituteInfo());
+    SNode attributeConcept = provider.getRoleAttribute();
+    if (attributeConcept != null) {
+      EditorManager manager = EditorManager.getInstanceFromContext(getEditorContext());
+      return manager.createNodeRoleAttributeCell(attributeConcept, provider.getRoleAttributeKind(), editorCell);
+    } else
+    return editorCell;
+  }
+  public Grid createTableCell_otloqc_c0a(final EditorContext editorContext, final SNode node) {
+
+    EditorCell cell = createProperty_otloqc_a2a0();
+    final Style style = new ITableStyleFactory() {
+      public Style createStyle(final int columnIndex, final int rowIndex) {
+        Style style = new StyleImpl();
+        return style;
+      }
+    }.createStyle(0, 0);
+
+    Grid grid;
+    if (cell instanceof PartialTableEditor) {
+      grid = ((PartialTableEditor) cell).getGrid().clone();
+    } else {
+      grid = new Grid();
+      EditorCellGridLeaf leaf = new EditorCellGridLeaf(cell);
+      leaf.setStyle(style);
+      grid.setElement(0, 0, leaf);
+    }
+
+    return grid;
+  }
+  private EditorCell createProperty_otloqc_a2a0() {
+    CellProviderWithRole provider = new PropertyCellProvider(myNode, getEditorContext());
+    provider.setRole("priority");
+    provider.setNoTargetText("<no priority>");
+    EditorCell editorCell;
+    editorCell = provider.createEditorCell(getEditorContext());
+    editorCell.setCellId("property_priority");
     editorCell.setSubstituteInfo(provider.createDefaultSubstituteInfo());
     SNode attributeConcept = provider.getRoleAttribute();
     if (attributeConcept != null) {
