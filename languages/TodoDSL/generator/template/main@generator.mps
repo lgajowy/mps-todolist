@@ -11,6 +11,7 @@
     <import index="c8ee" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:javax.swing.table(JDK/)" />
     <import index="hyam" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.awt.event(JDK/)" />
     <import index="wyt6" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.lang(JDK/)" implicit="true" />
+    <import index="ka38" ref="r:fc4ed9eb-e096-41b2-abef-c1b53bb1f7f8(TodoDSL.behavior)" implicit="true" />
     <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
   </imports>
   <registry>
@@ -204,6 +205,7 @@
       </concept>
     </language>
     <language id="7866978e-a0f0-4cc7-81bc-4d213d9375e1" name="jetbrains.mps.lang.smodel">
+      <concept id="1179409122411" name="jetbrains.mps.lang.smodel.structure.Node_ConceptMethodCall" flags="nn" index="2qgKlT" />
       <concept id="1138676077309" name="jetbrains.mps.lang.smodel.structure.EnumMemberReference" flags="nn" index="uoxfO">
         <reference id="1138676095763" name="enumMember" index="uo_Cq" />
       </concept>
@@ -613,17 +615,10 @@
           <node concept="3clFbS" id="4mV8Zoh9x$M" role="2VODD2">
             <node concept="3clFbF" id="4mV8Zoh9xRt" role="3cqZAp">
               <node concept="3fqX7Q" id="4mV8Zoh9WOP" role="3clFbG">
-                <node concept="2OqwBi" id="4mV8Zoh9WOQ" role="3fr31v">
-                  <node concept="2OqwBi" id="4mV8Zoh9WOR" role="2Oq$k0">
-                    <node concept="30H73N" id="4mV8Zoh9WOS" role="2Oq$k0" />
-                    <node concept="3TrcHB" id="4mV8Zoh9WOT" role="2OqNvi">
-                      <ref role="3TsBF5" to="m3ts:4mV8ZogW4uH" resolve="background" />
-                    </node>
-                  </node>
-                  <node concept="3t7uKx" id="4mV8Zoh9WOU" role="2OqNvi">
-                    <node concept="uoxfO" id="4mV8Zoh9WOV" role="3t7uKA">
-                      <ref role="uo_Cq" to="m3ts:4mV8Zoh9IKX" />
-                    </node>
+                <node concept="2OqwBi" id="4mV8Zoh9WOR" role="3fr31v">
+                  <node concept="30H73N" id="4mV8Zoh9WOS" role="2Oq$k0" />
+                  <node concept="2qgKlT" id="7qVNiA7ku8V" role="2OqNvi">
+                    <ref role="37wK5l" to="ka38:4mV8Zohb_uW" resolve="isDefaultBackground" />
                   </node>
                 </node>
               </node>
