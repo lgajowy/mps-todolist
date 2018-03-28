@@ -24,14 +24,14 @@
   </registry>
   <node concept="2_JAAZ" id="4mV8ZogVYJb">
     <property role="1liQht" value="today" />
-    <property role="1liQhr" value="RED " />
+    <property role="1liQhr" value="YELLOW" />
     <node concept="1liQhe" id="4mV8Zoh5xnj" role="1liQh0">
       <property role="TrG5h" value="name" />
       <property role="1liQhd" value="asda" />
     </node>
     <node concept="1liQhe" id="4mV8Zoh7K19" role="1liQh0">
       <property role="TrG5h" value="xyz" />
-      <property role="1liQhd" value="asd" />
+      <property role="1liQhd" value="asdasdasdasdasdasdasd" />
     </node>
     <node concept="1liQhe" id="4mV8Zoh7K1c" role="1liQh0">
       <property role="TrG5h" value="asd" />

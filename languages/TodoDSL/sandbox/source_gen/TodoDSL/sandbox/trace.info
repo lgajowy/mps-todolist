@@ -11,113 +11,117 @@
   <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1163670490218:jetbrains.mps.baseLanguage.structure.SwitchStatement" />
   <root nodeRef="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015006155">
     <file name="TodoList.java">
-      <node id="5024649349015006155" at="20,39,21,32" concept="4" />
-      <node id="5024649349015006155" at="21,32,22,57" concept="0" />
-      <node id="5024649349015006155" at="22,57,23,0" concept="6" />
-      <node id="5024649349015006155" at="23,0,24,37" concept="4" />
-      <node id="5024649349015006155" at="24,37,25,38" concept="0" />
-      <node id="5024649349015006155" at="25,38,26,0" concept="6" />
-      <node id="5024649349015006155" at="26,0,27,32" concept="4" />
-      <node id="5024649349015006155" at="27,32,28,35" concept="0" />
-      <node id="5024649349015006155" at="28,35,29,0" concept="6" />
-      <node id="5024649349015006155" at="29,0,30,41" concept="0" />
-      <node id="5024649349015006155" at="30,41,31,59" concept="0" />
-      <node id="5024649349015006155" at="31,59,32,0" concept="6" />
-      <node id="5024649349015006155" at="32,0,33,35" concept="0" />
-      <node id="5024649349015006155" at="33,35,34,35" concept="0" />
-      <node id="5024649349015006155" at="34,35,35,35" concept="0" />
-      <node id="5024649349015006155" at="35,35,36,0" concept="6" />
-      <node id="5024649349015006155" at="36,0,37,91" concept="0" />
-      <node id="5024649349015006155" at="37,91,38,28" concept="0" />
-      <node id="5024649349015006155" at="38,28,39,50" concept="0" />
-      <node id="5024649349015006155" at="39,50,40,17" concept="0" />
-      <node id="5024649349015006155" at="40,17,41,27" concept="0" />
-      <node id="5024649349015006155" at="44,43,45,87" concept="4" />
-      <node id="5024649349015006155" at="45,87,46,0" concept="6" />
-      <node id="5024649349015006155" at="46,0,47,129" concept="4" />
-      <node id="5024649349015006155" at="47,129,48,0" concept="6" />
-      <node id="5024649349015006155" at="48,0,49,50" concept="5" />
-      <node id="5024649349015006155" at="52,75,53,67" concept="4" />
-      <node id="5024649349015006155" at="57,17,58,32" concept="5" />
-      <node id="5024649349015006155" at="59,17,60,32" concept="5" />
-      <node id="5024649349015006155" at="61,17,62,32" concept="5" />
-      <node id="5024649349015006155" at="63,17,64,33" concept="5" />
-      <node id="5024649349015006155" at="65,18,66,32" concept="5" />
-      <node id="5024649349015006155" at="74,48,75,48" concept="4" />
-      <node id="5024649349015006155" at="75,48,76,0" concept="6" />
-      <node id="5024649349015006155" at="76,0,77,30" concept="4" />
-      <node id="5024649349015006155" at="77,30,78,0" concept="6" />
-      <node id="5024649349015006155" at="80,72,81,24" concept="0" />
-      <node id="5024649349015006155" at="83,9,84,93" concept="0" />
-      <node id="5024649349015006155" at="91,25,92,24" concept="0" />
-      <node id="5024649349015006155" at="79,45,82,11" concept="2" />
-      <node id="5024649349015006155" at="91,0,94,0" concept="3" trace="run#()V" />
-      <node id="5024649349015006155" at="78,0,83,9" concept="1" />
-      <node id="5024649349015006155" at="89,42,94,7" concept="0" />
-      <node id="5024649349015006155" at="44,0,51,0" concept="7" trace="createDataTable#()Ljavax/swing/JTable;" />
-      <node id="5024649349015006155" at="89,0,96,0" concept="7" trace="main#([Ljava/lang/String;)V" />
-      <node id="5024649349015006155" at="55,47,67,9" concept="8" />
-      <node id="5024649349015006155" at="74,0,86,0" concept="3" trace="mouseClicked#(Ljava/awt/event/MouseEvent;)V" />
-      <node id="5024649349015006155" at="55,0,69,0" concept="3" trace="getColumnClass#(I)Ljava/lang/Class;" />
-      <node id="5024649349015006155" at="72,82,86,7" concept="0" />
-      <node id="5024649349015006155" at="53,67,69,6" concept="5" />
-      <node id="5024649349015006155" at="72,0,88,0" concept="7" trace="addClickingListener#(Ljavax/swing/JTable;Ljavax/swing/JFrame;)V" />
-      <node id="5024649349015006155" at="52,0,71,0" concept="7" trace="fillUpTheTable#([[Ljava/lang/Object;[Ljava/lang/String;)Ljavax/swing/JTable;" />
-      <node id="5024649349015006155" at="20,0,43,0" concept="7" trace="createListGUI#()V" />
-      <scope id="5024649349015006155" at="57,17,58,32" />
-      <scope id="5024649349015006155" at="59,17,60,32" />
-      <scope id="5024649349015006155" at="61,17,62,32" />
-      <scope id="5024649349015006155" at="63,17,64,33" />
-      <scope id="5024649349015006155" at="65,18,66,32" />
-      <scope id="5024649349015006155" at="80,72,81,24" />
-      <scope id="5024649349015006155" at="91,25,92,24" />
-      <scope id="5024649349015006155" at="79,45,82,11" />
-      <scope id="5024649349015006155" at="91,0,94,0" />
-      <scope id="5024649349015006155" at="44,43,49,50">
+      <node id="5024649349015006155" at="21,25,22,24" concept="0" />
+      <node id="5024649349015006155" at="27,39,28,32" concept="4" />
+      <node id="5024649349015006155" at="28,32,29,37" concept="4" />
+      <node id="5024649349015006155" at="29,37,30,38" concept="0" />
+      <node id="5024649349015006155" at="30,38,31,37" concept="4" />
+      <node id="5024649349015006155" at="31,37,32,40" concept="0" />
+      <node id="5024649349015006155" at="32,40,33,52" concept="4" />
+      <node id="5024649349015006155" at="33,52,34,0" concept="6" />
+      <node id="5024649349015006155" at="34,0,35,56" concept="0" />
+      <node id="5024649349015006155" at="35,56,36,0" concept="6" />
+      <node id="5024649349015006155" at="36,0,37,93" concept="4" />
+      <node id="5024649349015006155" at="37,93,38,25" concept="0" />
+      <node id="5024649349015006155" at="38,25,39,57" concept="0" />
+      <node id="5024649349015006155" at="39,57,40,91" concept="0" />
+      <node id="5024649349015006155" at="40,91,41,17" concept="0" />
+      <node id="5024649349015006155" at="41,17,42,27" concept="0" />
+      <node id="5024649349015006155" at="45,85,46,55" concept="0" />
+      <node id="5024649349015006155" at="46,55,47,55" concept="0" />
+      <node id="5024649349015006155" at="50,43,51,87" concept="4" />
+      <node id="5024649349015006155" at="51,87,52,0" concept="6" />
+      <node id="5024649349015006155" at="52,0,53,147" concept="4" />
+      <node id="5024649349015006155" at="53,147,54,0" concept="6" />
+      <node id="5024649349015006155" at="54,0,55,46" concept="5" />
+      <node id="5024649349015006155" at="58,71,59,67" concept="4" />
+      <node id="5024649349015006155" at="63,17,64,32" concept="5" />
+      <node id="5024649349015006155" at="65,17,66,32" concept="5" />
+      <node id="5024649349015006155" at="67,17,68,32" concept="5" />
+      <node id="5024649349015006155" at="69,17,70,33" concept="5" />
+      <node id="5024649349015006155" at="71,18,72,32" concept="5" />
+      <node id="5024649349015006155" at="81,48,82,48" concept="4" />
+      <node id="5024649349015006155" at="82,48,83,0" concept="6" />
+      <node id="5024649349015006155" at="83,0,84,30" concept="4" />
+      <node id="5024649349015006155" at="84,30,85,0" concept="6" />
+      <node id="5024649349015006155" at="87,72,88,24" concept="0" />
+      <node id="5024649349015006155" at="90,9,91,93" concept="0" />
+      <node id="5024649349015006155" at="21,0,24,0" concept="3" trace="run#()V" />
+      <node id="5024649349015006155" at="86,45,89,11" concept="2" />
+      <node id="5024649349015006155" at="45,0,49,0" concept="7" trace="setBackgroundColor#(Ljavax/swing/JPanel;Ljavax/swing/JScrollPane;)V" />
+      <node id="5024649349015006155" at="19,42,24,7" concept="0" />
+      <node id="5024649349015006155" at="85,0,90,9" concept="1" />
+      <node id="5024649349015006155" at="19,0,26,0" concept="7" trace="main#([Ljava/lang/String;)V" />
+      <node id="5024649349015006155" at="50,0,57,0" concept="7" trace="createDataTable#()Ljavax/swing/JTable;" />
+      <node id="5024649349015006155" at="61,47,73,9" concept="8" />
+      <node id="5024649349015006155" at="81,0,93,0" concept="3" trace="mouseClicked#(Ljava/awt/event/MouseEvent;)V" />
+      <node id="5024649349015006155" at="61,0,75,0" concept="3" trace="getColumnClass#(I)Ljava/lang/Class;" />
+      <node id="5024649349015006155" at="79,82,93,7" concept="0" />
+      <node id="5024649349015006155" at="79,0,95,0" concept="7" trace="addClickingListener#(Ljavax/swing/JTable;Ljavax/swing/JFrame;)V" />
+      <node id="5024649349015006155" at="27,0,44,0" concept="7" trace="createListGUI#()V" />
+      <node id="5024649349015006155" at="59,67,76,6" concept="5" />
+      <node id="5024649349015006155" at="58,0,78,0" concept="7" trace="setupTable#([[Ljava/lang/Object;[Ljava/lang/String;)Ljavax/swing/JTable;" />
+      <scope id="5024649349015006155" at="21,25,22,24" />
+      <scope id="5024649349015006155" at="63,17,64,32" />
+      <scope id="5024649349015006155" at="65,17,66,32" />
+      <scope id="5024649349015006155" at="67,17,68,32" />
+      <scope id="5024649349015006155" at="69,17,70,33" />
+      <scope id="5024649349015006155" at="71,18,72,32" />
+      <scope id="5024649349015006155" at="87,72,88,24" />
+      <scope id="5024649349015006155" at="45,85,47,55" />
+      <scope id="5024649349015006155" at="21,0,24,0" />
+      <scope id="5024649349015006155" at="86,45,89,11" />
+      <scope id="5024649349015006155" at="45,0,49,0">
+        <var name="labelPanel" id="5024649349015006155" />
+        <var name="scrollPane" id="5024649349015006155" />
+      </scope>
+      <scope id="5024649349015006155" at="19,42,24,7" />
+      <scope id="5024649349015006155" at="50,43,55,46">
         <var name="columns" id="5024649349015006155" />
         <var name="data" id="5024649349015006155" />
       </scope>
-      <scope id="5024649349015006155" at="78,0,83,9">
+      <scope id="5024649349015006155" at="85,0,90,9">
         <var name="i" id="5024649349015006155" />
       </scope>
-      <scope id="5024649349015006155" at="89,42,94,7" />
-      <scope id="5024649349015006155" at="44,0,51,0" />
-      <scope id="5024649349015006155" at="89,0,96,0">
+      <scope id="5024649349015006155" at="19,0,26,0">
         <var name="args" id="5024649349015006155" />
       </scope>
-      <scope id="5024649349015006155" at="74,48,84,93">
+      <scope id="5024649349015006155" at="50,0,57,0" />
+      <scope id="5024649349015006155" at="81,48,91,93">
         <var name="doneTasks" id="5024649349015006155" />
         <var name="taskCount" id="5024649349015006155" />
       </scope>
-      <scope id="5024649349015006155" at="55,47,67,9" />
-      <scope id="5024649349015006155" at="74,0,86,0">
+      <scope id="5024649349015006155" at="61,47,73,9" />
+      <scope id="5024649349015006155" at="81,0,93,0">
         <var name="evt" id="5024649349015006155" />
       </scope>
-      <scope id="5024649349015006155" at="55,0,69,0">
+      <scope id="5024649349015006155" at="61,0,75,0">
         <var name="column" id="5024649349015006155" />
       </scope>
-      <scope id="5024649349015006155" at="72,82,86,7" />
-      <scope id="5024649349015006155" at="72,0,88,0">
+      <scope id="5024649349015006155" at="79,82,93,7" />
+      <scope id="5024649349015006155" at="27,39,42,27">
+        <var name="frame" id="5024649349015006155" />
+        <var name="labelPanel" id="5024649349015006155" />
+        <var name="scrollPane" id="5024649349015006155" />
+        <var name="splitPane" id="5024649349015006155" />
+        <var name="table" id="5024649349015006155" />
+      </scope>
+      <scope id="5024649349015006155" at="79,0,95,0">
         <var name="frame" id="5024649349015006155" />
         <var name="table" id="5024649349015006155" />
       </scope>
-      <scope id="5024649349015006155" at="52,75,69,6">
+      <scope id="5024649349015006155" at="27,0,44,0" />
+      <scope id="5024649349015006155" at="58,71,76,6">
         <var name="model" id="5024649349015006155" />
       </scope>
-      <scope id="5024649349015006155" at="52,0,71,0">
+      <scope id="5024649349015006155" at="58,0,78,0">
         <var name="columns" id="5024649349015006155" />
         <var name="data" id="5024649349015006155" />
       </scope>
-      <scope id="5024649349015006155" at="20,39,41,27">
-        <var name="frame" id="5024649349015006155" />
-        <var name="panel" id="5024649349015006155" />
-        <var name="table" id="5024649349015006155" />
-      </scope>
-      <scope id="5024649349015006155" at="20,0,43,0" />
-      <unit id="5024649349015006155" at="90,35,94,5" name="TodoDSL.sandbox.TodoList$3" />
-      <unit id="5024649349015006155" at="73,31,86,5" name="TodoDSL.sandbox.TodoList$2" />
-      <unit id="5024649349015006155" at="54,15,69,5" name="TodoDSL.sandbox.TodoList$1" />
-      <unit id="5024649349015006155" at="18,0,97,0" name="TodoDSL.sandbox.TodoList" />
+      <unit id="5024649349015006155" at="20,35,24,5" name="TodoDSL.sandbox.TodoList$1" />
+      <unit id="5024649349015006155" at="80,31,93,5" name="TodoDSL.sandbox.TodoList$3" />
+      <unit id="5024649349015006155" at="60,15,76,5" name="TodoDSL.sandbox.TodoList$2" />
+      <unit id="5024649349015006155" at="17,0,96,0" name="TodoDSL.sandbox.TodoList" />
     </file>
   </root>
 </debug-info>

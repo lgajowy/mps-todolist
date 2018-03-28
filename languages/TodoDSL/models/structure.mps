@@ -129,6 +129,10 @@
       <property role="1uS6qv" value="YELLOW" />
       <property role="1uS6qo" value="yellow" />
     </node>
+    <node concept="M4N5e" id="4mV8Zoh9IKX" role="M5hS2">
+      <property role="1uS6qv" value="DEFAULT" />
+      <property role="1uS6qo" value="default" />
+    </node>
   </node>
 </model>
 

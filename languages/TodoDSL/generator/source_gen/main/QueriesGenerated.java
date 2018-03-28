@@ -8,6 +8,7 @@ import jetbrains.mps.generator.template.BaseMappingRuleContext;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
 import jetbrains.mps.smodel.adapter.structure.MetaAdapterFactory;
 import jetbrains.mps.generator.template.PropertyMacroContext;
+import jetbrains.mps.generator.template.IfMacroContext;
 import org.jetbrains.mps.openapi.model.SNode;
 import jetbrains.mps.generator.template.SourceSubstituteMacroNodesContext;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
@@ -25,6 +26,7 @@ import jetbrains.mps.util.IterableUtil;
 import jetbrains.mps.generator.impl.query.PropertyValueQuery;
 import org.jetbrains.mps.openapi.language.SProperty;
 import org.jetbrains.annotations.Nullable;
+import jetbrains.mps.generator.impl.query.IfMacroCondition;
 
 @Generated
 public class QueriesGenerated extends QueryProviderBase {
@@ -32,10 +34,10 @@ public class QueriesGenerated extends QueryProviderBase {
     super(1);
   }
   public static boolean baseMappingRule_Condition_5024649349017901435(final BaseMappingRuleContext _context) {
-    return SPropertyOperations.hasValue(_context.getNode(), MetaAdapterFactory.getProperty(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0xc451252a9fb7bedL, 0x45bb23f610f047adL, "background"), "RED ", "RED ");
+    return SPropertyOperations.hasValue(_context.getNode(), MetaAdapterFactory.getProperty(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0xc451252a9fb7bedL, 0x45bb23f610f047adL, "background"), "BLUE", "RED ");
   }
   public static boolean baseMappingRule_Condition_5024649349017953977(final BaseMappingRuleContext _context) {
-    return SPropertyOperations.hasValue(_context.getNode(), MetaAdapterFactory.getProperty(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0xc451252a9fb7bedL, 0x45bb23f610f047adL, "background"), "BLUE", "RED ");
+    return SPropertyOperations.hasValue(_context.getNode(), MetaAdapterFactory.getProperty(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0xc451252a9fb7bedL, 0x45bb23f610f047adL, "background"), "RED ", "RED ");
   }
   public static boolean baseMappingRule_Condition_5024649349018015644(final BaseMappingRuleContext _context) {
     return SPropertyOperations.hasValue(_context.getNode(), MetaAdapterFactory.getProperty(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0xc451252a9fb7bedL, 0x45bb23f610f047adL, "background"), "YELLOW", "RED ");
@@ -51,6 +53,12 @@ public class QueriesGenerated extends QueryProviderBase {
   }
   public static Object propertyMacro_GetPropertyValue_5024649349017719364(final PropertyMacroContext _context) {
     return SPropertyOperations.getString_def(_context.getNode(), MetaAdapterFactory.getProperty(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0x45bb23f610f047b8L, 0x45bb23f610f047bdL, "priority"), "LOW");
+  }
+  public static boolean ifMacro_Condition_5024649349018720007(final IfMacroContext _context) {
+    return !(SPropertyOperations.hasValue(_context.getNode(), MetaAdapterFactory.getProperty(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0xc451252a9fb7bedL, 0x45bb23f610f047adL, "background"), "DEFAULT", "RED "));
+  }
+  public static boolean ifMacro_Condition_5024649349018556720(final IfMacroContext _context) {
+    return !(SPropertyOperations.hasValue(_context.getNode(), MetaAdapterFactory.getProperty(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0xc451252a9fb7bedL, 0x45bb23f610f047adL, "background"), "DEFAULT", "RED "));
   }
   public static Iterable<SNode> sourceNodesQuery_5024649349017639366(final SourceSubstituteMacroNodesContext _context) {
     return SLinkOperations.getChildren(_context.getNode(), MetaAdapterFactory.getContainmentLink(0x297ec2396c484eeaL, 0xbc6bbc22570d94c6L, 0xc451252a9fb7bedL, 0x45bb23f610f047b6L, "stuffToDo"));
@@ -155,6 +163,38 @@ public class QueriesGenerated extends QueryProviderBase {
           return QueriesGenerated.propertyMacro_GetPropertyValue_5024649349017719364(ctx);
         default:
           throw new GenerationFailureException(String.format("Inconsistent QueriesGenerated: there's no method for query %s (key: #%d)", ctx.getTemplateReference(), methodKey));
+      }
+    }
+  }
+  private final Map<String, IfMacroCondition> imcMethods = new HashMap<String, IfMacroCondition>();
+  {
+    int i = 0;
+    imcMethods.put("5024649349018720005", new QueriesGenerated.IfMC(i++));
+    imcMethods.put("5024649349018556718", new QueriesGenerated.IfMC(i++));
+  }
+  @NotNull
+  @Override
+  public IfMacroCondition getIfMacroCondition(@NotNull QueryKey identity) {
+    final String id = identity.getTemplateNode().getNodeId().toString();
+    if (!(imcMethods.containsKey(id))) {
+      return super.getIfMacroCondition(identity);
+    }
+    return imcMethods.get(id);
+  }
+  private static class IfMC implements IfMacroCondition {
+    private final int methodKey;
+    public IfMC(int methodKey) {
+      this.methodKey = methodKey;
+    }
+    @Override
+    public boolean check(@NotNull IfMacroContext ctx) throws GenerationFailureException {
+      switch (methodKey) {
+        case 0:
+          return QueriesGenerated.ifMacro_Condition_5024649349018720007(ctx);
+        case 1:
+          return QueriesGenerated.ifMacro_Condition_5024649349018556720(ctx);
+        default:
+          throw new GenerationFailureException(String.format("Inconsistent QueriesGenerated: there's no condition method for if macro %s (key: #%d)", ctx.getTemplateReference(), methodKey));
       }
     }
   }

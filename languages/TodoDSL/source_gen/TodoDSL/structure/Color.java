@@ -9,7 +9,8 @@ import java.util.LinkedList;
 public enum Color {
   red("red", "RED "),
   blue("blue", "BLUE"),
-  yellow("yellow", "YELLOW");
+  yellow("yellow", "YELLOW"),
+  default_jfp29_d("default", "DEFAULT");
 
   private final String myName;
   public String getName() {
@@ -31,6 +32,7 @@ public enum Color {
     ListSequence.fromList(list).addElement(Color.red);
     ListSequence.fromList(list).addElement(Color.blue);
     ListSequence.fromList(list).addElement(Color.yellow);
+    ListSequence.fromList(list).addElement(Color.default_jfp29_d);
     return list;
   }
   public static Color getDefault() {
@@ -48,6 +50,9 @@ public enum Color {
     }
     if (value.equals(Color.yellow.getValueAsString())) {
       return Color.yellow;
+    }
+    if (value.equals(Color.default_jfp29_d.getValueAsString())) {
+      return Color.default_jfp29_d;
     }
     return Color.getDefault();
   }

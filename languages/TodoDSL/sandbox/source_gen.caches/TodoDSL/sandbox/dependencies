@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
   <dependency className="TodoDSL.sandbox.TodoList" file="TodoList.java">
-    <classNode dependClassName="java.awt.BorderLayout" />
     <classNode dependClassName="java.awt.Color" />
-    <classNode dependClassName="java.awt.Dimension" />
     <classNode dependClassName="java.awt.event.MouseAdapter" />
     <classNode dependClassName="java.awt.event.MouseEvent" />
     <classNode dependClassName="java.lang.Boolean" />
@@ -16,6 +14,7 @@
     <classNode dependClassName="javax.swing.JLabel" />
     <classNode dependClassName="javax.swing.JPanel" />
     <classNode dependClassName="javax.swing.JScrollPane" />
+    <classNode dependClassName="javax.swing.JSplitPane" />
     <classNode dependClassName="javax.swing.JTable" />
     <classNode dependClassName="javax.swing.SwingUtilities" />
     <classNode dependClassName="javax.swing.table.DefaultTableModel" />
