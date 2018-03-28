@@ -7,42 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce78f182-a97c-47d6-ae27-a18b50da5489" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/TodoList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/Language.class" afterPath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/Language.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/structure/ConceptPresentationAspectImpl.class" afterPath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/structure/ConceptPresentationAspectImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/structure/LanguageConceptSwitch.class" afterPath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/structure/LanguageConceptSwitch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/structure/StructureAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/structure/StructureAspectDescriptor.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/classes_gen/main/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/classes_gen/main/QueriesGenerated.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/migration.xml" afterPath="$PROJECT_DIR$/.mps/migration.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/TodoList.class" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/TodoList.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/TodoDSL.mpl" afterPath="$PROJECT_DIR$/languages/TodoDSL/TodoDSL.mpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/structure/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/structure/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/classes_gen/main/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/classes_gen/main/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen.caches/main/dependencies" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen.caches/main/dependencies" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen.caches/main/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen.caches/main/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen/main/QueriesGenerated.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen/main/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/source_gen/main/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/TodoDSL/generator/template/main@generator.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/models/structure.mps" afterPath="$PROJECT_DIR$/languages/TodoDSL/models/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/TodoDSL.sandbox.msd" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/TodoDSL.sandbox.msd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/models/TodoDSL.sandbox.mps" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/models/TodoDSL.sandbox.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen.caches/TodoDSL/sandbox/dependencies" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen.caches/TodoDSL/sandbox/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen.caches/TodoDSL/sandbox/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen.caches/TodoDSL/sandbox/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/TodoList.java" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/TodoList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/dependencies" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/structure/dependencies" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/structure/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/structure/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/structure/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/Language.java" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/Language.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/behavior/BehaviorAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/behavior/BehaviorAspectDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/constraints/ConstraintsAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/constraints/ConstraintsAspectDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/structure/ConceptPresentationAspectImpl.java" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/structure/ConceptPresentationAspectImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/structure/LanguageConceptSwitch.java" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/structure/LanguageConceptSwitch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/structure/StructureAspectDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/structure/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/structure/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/trace.info" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -121,28 +98,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TodoList" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TodoList" pinned="false" current-in-tab="true">
         <entry file="mps://node://TodoDSL/TodoDSL.structure/TodoList">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="283">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="319" />
-                    <property name="caretXRelative" value="80" />
+                    <property name="caretX" value="215" />
+                    <property name="caretXRelative" value="8" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349015566184" />
+                    <cellInfo cellId="Constant_nmr9ig_g0" cellNumber="0" isInList="false">
+                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016051361" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable />
-                <restoreAlways />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015714247" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016038469" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_msf9u8_b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015714245" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_msf9u8_b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016024362" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015355913" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015792294" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015647685" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
+                <restoreAlways>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016038469" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_msf9u8_b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016024362" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015792294" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </restoreAlways>
               </memento>
-              <inspectorMemento currentlyEditedNode="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015059110" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016051361" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -150,12 +179,12 @@
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
-              <node node_ref="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/884133048096619501" />
+              <node node_ref="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015355909" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TodoList" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TodoList" pinned="false" current-in-tab="false">
         <entry file="mps://node://TodoDSL.sandbox/TodoDSL.sandbox/TodoList">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -163,10 +192,10 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="175" />
-                    <property name="caretXRelative" value="32" />
+                    <property name="caretX" value="55" />
+                    <property name="caretXRelative" value="8" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_isDone" cellNumber="0" isInList="false">
+                    <cellInfo cellId="constant_9" cellNumber="0" isInList="false">
                       <node node_reference="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015059110" />
                     </cellInfo>
                   </stackElement>
@@ -176,7 +205,46 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015059110" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016051361" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main" pinned="false" current-in-tab="false">
+        <entry file="mps://node://TodoDSL#884133048096577896/main@generator/main">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="301" />
+                    <property name="caretXRelative" value="24" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="templateName" cellNumber="0" isInList="false">
+                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/884133048096619556" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="refNodeList_dropAttrubuteRule" cellNumber="0" isInList="false">
+                      <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/884133048096577897" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016051361" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -216,7 +284,7 @@
       </array>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1680" />
     <option name="y" value="-157" />
     <option name="width" value="1920" />
@@ -315,11 +383,45 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="ae3c42bf-f6a1-47c5-80b7-70d6a4e5d51d" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TodoDSL" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox) in IdeaFile{file:///Users/lukasz/MPSProjects/TodoLists/languages/TodoDSL/sandbox/models/TodoDSL.sandbox.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="297ec239-6c48-4eea-bc6b-bc22570d94c6(TodoDSL)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TodoDSL#884133048096577896" />
+              <option name="myItemId" value="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure) in IdeaFile{file:///Users/lukasz/MPSProjects/TodoLists/languages/TodoDSL/models/structure.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="297ec239-6c48-4eea-bc6b-bc22570d94c6(TodoDSL)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -360,42 +462,8 @@
               <option name="myItemId" value="297ec239-6c48-4eea-bc6b-bc22570d94c6(TodoDSL)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ae3c42bf-f6a1-47c5-80b7-70d6a4e5d51d" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TodoDSL" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox) in IdeaFile{file:///Users/lukasz/MPSProjects/TodoLists/languages/TodoDSL/sandbox/models/TodoDSL.sandbox.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="297ec239-6c48-4eea-bc6b-bc22570d94c6(TodoDSL)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure) in IdeaFile{file:///Users/lukasz/MPSProjects/TodoLists/languages/TodoDSL/models/structure.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
+              <option name="myItemId" value="TodoDSL#884133048096577896" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -460,8 +528,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Java Application.Node TodoDSL.sandbox.TodoList">
-    <configuration name="Node TodoDSL.sandbox.TodoList" type="Java Application" factoryName="Java" temporary="true">
+  <component name="RunManager" selected="Java Application.Node TodoDSL.sandbox.TodoList$2 (1)">
+    <configuration name="All Tests in Project" type="JUnit Tests" factoryName="JUnit Tests" temporary="true">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="false" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir1" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration name="Node TodoDSL.sandbox.TodoList$1 (1)" type="Java Application" factoryName="Java" temporary="true">
       <MyState />
       <myNode>
         <MyState>
@@ -483,13 +584,79 @@
         </MyState>
       </myRunParameters>
     </configuration>
-    <configuration name="Tests in 'TodoDSL.sandbox'" type="JUnit Tests" factoryName="JUnit Tests" temporary="true">
+    <configuration name="Node TodoDSL.sandbox.TodoList$1 (2)" type="Java Application" factoryName="Java" temporary="true">
+      <MyState />
+      <myNode>
+        <MyState>
+          <option name="myNodePointer" value="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015006155" />
+          <option name="myNodeText" value="TodoDSL.sandbox.5024649349015006155" />
+        </MyState>
+      </myNode>
+      <myRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" value="" />
+              <option name="programParameters" value="" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" value="" />
+              <option name="workingDirectory" value="$PROJECT_DIR$" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myRunParameters>
+    </configuration>
+    <configuration name="Node TodoDSL.sandbox.TodoList$2 (1)" type="Java Application" factoryName="Java" temporary="true">
+      <MyState />
+      <myNode>
+        <MyState>
+          <option name="myNodePointer" value="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015006155" />
+          <option name="myNodeText" value="TodoDSL.sandbox.5024649349015006155" />
+        </MyState>
+      </myNode>
+      <myRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" value="" />
+              <option name="programParameters" value="" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" value="" />
+              <option name="workingDirectory" value="$PROJECT_DIR$" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myRunParameters>
+    </configuration>
+    <configuration name="Node TodoDSL.sandbox.TodoList$2" type="Java Application" factoryName="Java" temporary="true">
+      <MyState />
+      <myNode>
+        <MyState>
+          <option name="myNodePointer" value="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015006155" />
+          <option name="myNodeText" value="TodoDSL.sandbox.5024649349015006155" />
+        </MyState>
+      </myNode>
+      <myRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" value="" />
+              <option name="programParameters" value="" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" value="" />
+              <option name="workingDirectory" value="$PROJECT_DIR$" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
       <MyState />
       <myJUnitSettings>
         <MyState>
           <option name="myModel" />
-          <option name="myModule" value="TodoDSL.sandbox" />
-          <option name="myInProcess" value="false" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
           <option name="myReuseCaches" value="true" />
           <option name="myDebug" value="false" />
           <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
@@ -499,7 +666,7 @@
           <option name="myTestMethods">
             <list />
           </option>
-          <option name="myRunType" value="1" />
+          <option name="myRunType" value="0" />
         </MyState>
       </myJUnitSettings>
       <myJavaRunParameters>
@@ -570,16 +737,813 @@
           </option>
         </MyState>
       </myJavaRunParameters>
-      <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'TodoDSL.sandbox'" />
-      <item index="1" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList" />
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/lm/fjmbkdmd5kq3lpqw5n2_mpr80000gn/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$1 (1)" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit Tests.All Tests in Project" />
+      <item index="2" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$1 (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$2" />
+      <item index="4" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$2 (1)" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit Tests.Tests in 'TodoDSL.sandbox'" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$2 (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$2" />
+        <item index="2" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$1 (2)" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit Tests.All Tests in Project" />
+        <item index="4" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -590,7 +1554,8 @@
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="-157" width="1920" height="1057" extended-state="0" />
+    <frame x="1681" y="-157" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -602,15 +1567,15 @@
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936507" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936507" sideWeight="0.5229167" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.47708333" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936507" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936507" sideWeight="0.47708333" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -851,9 +1816,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/TodoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/TODO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="mps://node://TodoDSL#884133048096577896/main@generator/main">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
@@ -877,7 +1856,7 @@
             </foldable>
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/884133048096619556" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016051361" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -885,52 +1864,6 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/TodoList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/TODO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://TodoDSL/TodoDSL.structure/TodoList">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="319" />
-                <property name="caretXRelative" value="80" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/5024649349015566184" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015059110" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:57dfd69d-4f5f-494d-9897-8ab8c7335788(TodoDSL.structure)/884133048096619501" />
         </state>
       </provider>
     </entry>
@@ -941,10 +1874,10 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="175" />
-                <property name="caretXRelative" value="32" />
+                <property name="caretX" value="55" />
+                <property name="caretXRelative" value="8" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_isDone" cellNumber="0" isInList="false">
+                <cellInfo cellId="constant_9" cellNumber="0" isInList="false">
                   <node node_reference="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015059110" />
                 </cellInfo>
               </stackElement>
@@ -954,7 +1887,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015059110" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016051361" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -962,6 +1895,90 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL/TodoDSL.structure/TodoList">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="283">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="215" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_nmr9ig_g0" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016051361" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015714247" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016038469" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_msf9u8_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015714245" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_msf9u8_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016024362" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015355913" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015792294" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015647685" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016038469" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_msf9u8_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016024362" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015792294" />
+                </cellIdElement>
+              </collapsedElement>
+            </restoreAlways>
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349016051361" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:d0a34136-43ba-4744-9f10-7d5c029db04d(main@generator)/5024649349015355909" />
         </state>
       </provider>
     </entry>
