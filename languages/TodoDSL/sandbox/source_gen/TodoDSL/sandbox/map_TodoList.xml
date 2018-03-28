@@ -1,0 +1,22 @@
+<todolist>
+  <background>YELLOW</background>
+  <date>Thu Mar 15 00:58:46 CET 2018</date>
+  <todos>
+    <todo>
+      <name>Do the dishes</name>
+      <description>Put 'em in the machine.</description>
+      <priority>LOW</priority>
+    </todo>
+    <todo>
+      <name>Laundry</name>
+      <description>Do the laundry!</description>
+      <priority>MEDIUM</priority>
+    </todo>
+    <todo>
+      <name>Make macaroni and cheese</name>
+      <description>Put cheese into macaroni!!</description>
+      <priority>EXTREME</priority>
+    </todo>
+    
+  </todos>
+</todolist>

@@ -7,155 +7,127 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce78f182-a97c-47d6-ae27-a18b50da5489" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/TodoDSL.xmlGenerator.mpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/classes_gen/AlternateTodoGenerator/behavior/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/classes_gen/AlternateTodoGenerator/constraints/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/classes_gen/AlternateTodoGenerator/editor/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/classes_gen/AlternateTodoGenerator/structure/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/classes_gen/AlternateTodoGenerator/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/classes_gen/AlternateTodoGenerator/typesystem/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/classes_gen/TodoDSL/xmlGenerator/behavior/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/classes_gen/TodoDSL/xmlGenerator/constraints/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/classes_gen/TodoDSL/xmlGenerator/editor/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/classes_gen/TodoDSL/xmlGenerator/structure/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/classes_gen/TodoDSL/xmlGenerator/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/classes_gen/TodoDSL/xmlGenerator/typesystem/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/generator/classes_gen/main/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/generator/source_gen.caches/main/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/generator/source_gen.caches/main/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/generator/source_gen/main/QueriesGenerated.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/generator/source_gen/main/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/generator/template/main@generator.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/models/TodoDSL.xmlGenerator.behavior.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/models/TodoDSL.xmlGenerator.constraints.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/models/TodoDSL.xmlGenerator.editor.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/models/TodoDSL.xmlGenerator.structure.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/models/TodoDSL.xmlGenerator.typesystem.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/AlternateTodoGenerator/behavior/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/AlternateTodoGenerator/behavior/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/AlternateTodoGenerator/constraints/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/AlternateTodoGenerator/constraints/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/AlternateTodoGenerator/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/AlternateTodoGenerator/editor/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/AlternateTodoGenerator/editor/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/AlternateTodoGenerator/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/AlternateTodoGenerator/structure/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/AlternateTodoGenerator/structure/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/AlternateTodoGenerator/typesystem/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/AlternateTodoGenerator/typesystem/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/TodoDSL/xmlGenerator/behavior/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/TodoDSL/xmlGenerator/behavior/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/TodoDSL/xmlGenerator/constraints/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/TodoDSL/xmlGenerator/constraints/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/TodoDSL/xmlGenerator/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/TodoDSL/xmlGenerator/editor/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/TodoDSL/xmlGenerator/editor/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/TodoDSL/xmlGenerator/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/TodoDSL/xmlGenerator/structure/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/TodoDSL/xmlGenerator/structure/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/TodoDSL/xmlGenerator/typesystem/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/TodoDSL/xmlGenerator/typesystem/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/Language.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/behavior/BehaviorAspectDescriptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/behavior/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/constraints/ConstraintsAspectDescriptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/constraints/aspectcps-descriptorclasses.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/constraints/checkpoints" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/constraints/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/editor/EditorAspectDescriptorImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/editor/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/structure/ConceptPresentationAspectImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/structure/LanguageConceptSwitch.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/structure/StructureAspectDescriptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/structure/aspectcps-descriptorclasses.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/structure/checkpoints" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/structure/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/typesystem/TypesystemDescriptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/typesystem/aspectcps-descriptorclasses.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/typesystem/checkpoints" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/AlternateTodoGenerator/typesystem/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/Language.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/behavior/BehaviorAspectDescriptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/behavior/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/constraints/ConstraintsAspectDescriptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/constraints/aspectcps-descriptorclasses.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/constraints/checkpoints" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/constraints/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/editor/EditorAspectDescriptorImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/editor/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/structure/ConceptPresentationAspectImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/structure/LanguageConceptSwitch.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/structure/StructureAspectDescriptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/structure/aspectcps-descriptorclasses.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/structure/checkpoints" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/structure/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/typesystem/TypesystemDescriptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/typesystem/aspectcps-descriptorclasses.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/typesystem/checkpoints" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/typesystem/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/TodoDSL.swingGenerator.mpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/classes_gen/TodoDSL/swingGenerator/behavior/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/classes_gen/TodoDSL/swingGenerator/constraints/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/classes_gen/TodoDSL/swingGenerator/editor/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/classes_gen/TodoDSL/swingGenerator/structure/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/classes_gen/TodoDSL/swingGenerator/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/classes_gen/TodoDSL/swingGenerator/typesystem/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/generator/classes_gen/main/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/generator/source_gen.caches/main/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/generator/source_gen.caches/main/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/generator/source_gen/main/QueriesGenerated.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/generator/source_gen/main/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/generator/template/main@generator.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/models/behavior.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/models/constraints.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/models/editor.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/models/structure.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/models/typesystem.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/behavior/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/behavior/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/constraints/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/constraints/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/editor/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/editor/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/structure/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/structure/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/typesystem/dependencies" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/typesystem/generated" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/Language.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/behavior/BehaviorAspectDescriptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/behavior/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/constraints/ConstraintsAspectDescriptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/constraints/aspectcps-descriptorclasses.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/constraints/checkpoints" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/constraints/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/editor/EditorAspectDescriptorImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/editor/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/structure/ConceptPresentationAspectImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/structure/LanguageConceptSwitch.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/structure/StructureAspectDescriptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/structure/aspectcps-descriptorclasses.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/structure/checkpoints" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/structure/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/trace.info" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/typesystem/TypesystemDescriptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/typesystem/aspectcps-descriptorclasses.mps" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/typesystem/checkpoints" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/typesystem/trace.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/TodoDSL/tabularEditor/behavior/trace.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/TodoDSL/tabularEditor/editor/trace.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/TodoDSL/tabularEditor/structure/trace.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/TodoDSL/tabularEditor/trace.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/TodoDSL/tabularEditor/behavior/dependencies" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/TodoDSL/tabularEditor/behavior/generated" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/TodoDSL/tabularEditor/dependencies" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/TodoDSL/tabularEditor/editor/dependencies" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/TodoDSL/tabularEditor/editor/generated" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/TodoDSL/tabularEditor/generated" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/TodoDSL/tabularEditor/structure/dependencies" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/TodoDSL/tabularEditor/structure/generated" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/TodoDSL/tabularEditor/Language.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/TodoDSL/tabularEditor/behavior/BehaviorAspectDescriptor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/TodoDSL/tabularEditor/behavior/trace.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/TodoDSL/tabularEditor/editor/EditorAspectDescriptorImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/TodoDSL/tabularEditor/editor/TodoList_tabular_Editor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/TodoDSL/tabularEditor/editor/TodoList_tabular_EditorBuilder_a.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/TodoDSL/tabularEditor/editor/Todo_tabular_Editor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/TodoDSL/tabularEditor/editor/Todo_tabular_EditorBuilder_a.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/TodoDSL/tabularEditor/editor/trace.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/TodoDSL/tabularEditor/structure/ConceptPresentationAspectImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/TodoDSL/tabularEditor/structure/LanguageConceptSwitch.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/TodoDSL/tabularEditor/structure/StructureAspectDescriptor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/TodoDSL/tabularEditor/structure/trace.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/TodoDSL/tabularEditor/trace.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/map_TodoList.xml" />
       <change beforePath="$PROJECT_DIR$/.mps/modules.xml" afterPath="$PROJECT_DIR$/.mps/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/TodoDSL.mpl" afterPath="$PROJECT_DIR$/languages/TodoDSL/TodoDSL.mpl" />
-      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/Language.class" afterPath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/Language.class" />
-      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/classes_gen/TodoDSL/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/AlternateTodoEditors.mpl" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/TodoDSL.tabularEditor.mpl" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/Language.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/Language.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/behavior/BehaviorAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/behavior/BehaviorAspectDescriptor.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/AlternateTodoEditors/behavior/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/EditorAspectDescriptorImpl.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/EditorAspectDescriptorImpl.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_Editor.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_Editor.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$1$1.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$1$1.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$1.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$1.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$10.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$10.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$2.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$2.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$3$1.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$3$1.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$3.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$3.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$4$1.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$4$1.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$4$2.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$4$2.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$4$3.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$4$3.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$4$4.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$4$4.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$4$5.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$4$5.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$4$6.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$4$6.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$4.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$4.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$5.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$5.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$6.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$6.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$7.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$7.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$8.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$8.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$9.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$9.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$CellCreateOperation_a0a0a1a.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$CellCreateOperation_a0a0a1a.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$stuffToDoListHandler_tam27p_b0.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a$stuffToDoListHandler_tam27p_b0.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/Todo_tabular_Editor.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/Todo_tabular_Editor.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a$1$1.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a$1$1.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a$1.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a$1.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a$2.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a$2.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a$3.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a$3.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a$4.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a$4.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a$5.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a$5.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/editor/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/AlternateTodoEditors/editor/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/structure/ConceptPresentationAspectImpl.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/structure/ConceptPresentationAspectImpl.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/structure/LanguageConceptSwitch.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/structure/LanguageConceptSwitch.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/structure/StructureAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/structure/StructureAspectDescriptor.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/structure/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/AlternateTodoEditors/structure/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/classes_gen/AlternateTodoEditors/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/AlternateTodoEditors/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/generator/classes_gen/main/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/generator/classes_gen/main/QueriesGenerated.class" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/generator/classes_gen/main/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/generator/source_gen/main/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/generator/source_gen.caches/main/dependencies" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/generator/source_gen.caches/main/dependencies" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/generator/source_gen.caches/main/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/generator/source_gen.caches/main/generated" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/generator/source_gen/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/generator/source_gen/main/QueriesGenerated.java" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/generator/source_gen/main/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/generator/classes_gen/main/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/generator/template/main@generator.mps" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/models/behavior.mps" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/models/behavior.mps" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/models/editor.mps" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/models/editor.mps" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/models/structure.mps" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/models/structure.mps" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen.caches/AlternateTodoEditors/behavior/dependencies" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/AlternateTodoEditors/behavior/dependencies" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen.caches/AlternateTodoEditors/behavior/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/AlternateTodoEditors/behavior/generated" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen.caches/AlternateTodoEditors/dependencies" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/AlternateTodoEditors/dependencies" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen.caches/AlternateTodoEditors/editor/dependencies" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/AlternateTodoEditors/editor/dependencies" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen.caches/AlternateTodoEditors/editor/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/AlternateTodoEditors/editor/generated" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen.caches/AlternateTodoEditors/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/AlternateTodoEditors/generated" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen.caches/AlternateTodoEditors/structure/dependencies" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/AlternateTodoEditors/structure/dependencies" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen.caches/AlternateTodoEditors/structure/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen.caches/AlternateTodoEditors/structure/generated" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen/AlternateTodoEditors/Language.java" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/AlternateTodoEditors/Language.java" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen/AlternateTodoEditors/behavior/BehaviorAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/AlternateTodoEditors/behavior/BehaviorAspectDescriptor.java" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen/AlternateTodoEditors/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/behavior/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen/AlternateTodoEditors/editor/EditorAspectDescriptorImpl.java" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/AlternateTodoEditors/editor/EditorAspectDescriptorImpl.java" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen/AlternateTodoEditors/editor/TodoList_tabular_Editor.java" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/AlternateTodoEditors/editor/TodoList_tabular_Editor.java" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a.java" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/AlternateTodoEditors/editor/TodoList_tabular_EditorBuilder_a.java" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen/AlternateTodoEditors/editor/Todo_tabular_Editor.java" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/AlternateTodoEditors/editor/Todo_tabular_Editor.java" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a.java" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/AlternateTodoEditors/editor/Todo_tabular_EditorBuilder_a.java" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen/AlternateTodoEditors/editor/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/editor/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen/AlternateTodoEditors/structure/ConceptPresentationAspectImpl.java" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/AlternateTodoEditors/structure/ConceptPresentationAspectImpl.java" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen/AlternateTodoEditors/structure/LanguageConceptSwitch.java" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/AlternateTodoEditors/structure/LanguageConceptSwitch.java" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen/AlternateTodoEditors/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/source_gen/AlternateTodoEditors/structure/StructureAspectDescriptor.java" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen/AlternateTodoEditors/structure/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/structure/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoEditors/source_gen/AlternateTodoEditors/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL.tabularEditor/classes_gen/AlternateTodoEditors/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoGenerator/classes_gen/TodoDSL/xmlGenerator/typesystem/aspectcps-descriptorclasses.mps" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/classes_gen/TodoDSL/xmlGenerator/typesystem/aspectcps-descriptorclasses.mps" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/TodoDSL/xmlGenerator/generated" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen.caches/TodoDSL/xmlGenerator/generated" />
+      <change beforePath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/typesystem/aspectcps-descriptorclasses.mps" afterPath="$PROJECT_DIR$/languages/AlternateTodoGenerator/source_gen/TodoDSL/xmlGenerator/typesystem/aspectcps-descriptorclasses.mps" />
+      <change beforePath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/TodoDSL.swingGenerator.mpl" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/TodoDSL.swingGenerator.mpl" />
+      <change beforePath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/classes_gen/TodoDSL/swingGenerator/typesystem/aspectcps-descriptorclasses.mps" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/classes_gen/TodoDSL/swingGenerator/typesystem/aspectcps-descriptorclasses.mps" />
+      <change beforePath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/models/structure.mps" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/models/structure.mps" />
+      <change beforePath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/generated" />
+      <change beforePath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/structure/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen.caches/TodoDSL/swingGenerator/structure/generated" />
+      <change beforePath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/typesystem/aspectcps-descriptorclasses.mps" afterPath="$PROJECT_DIR$/languages/TodoDSL.swingGenerator/source_gen/TodoDSL/swingGenerator/typesystem/aspectcps-descriptorclasses.mps" />
+      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/TodoList$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/TodoList$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/TodoList$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/TodoList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/classes_gen/TodoDSL/sandbox/trace.info" />
       <change beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/models/TodoDSL.sandbox.mps" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/models/TodoDSL.sandbox.mps" />
+      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen.caches/TodoDSL/sandbox/dependencies" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen.caches/TodoDSL/sandbox/dependencies" />
       <change beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen.caches/TodoDSL/sandbox/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen.caches/TodoDSL/sandbox/generated" />
-      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/dependencies" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/dependencies" />
-      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/generated" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen.caches/TodoDSL/generated" />
-      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/Language.java" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/Language.java" />
-      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/source_gen/TodoDSL/trace.info" />
+      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/TodoList.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/TodoDSL/sandbox/source_gen/TodoDSL/sandbox/trace.info" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -178,7 +150,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="db8772a1-1225-4c06-a11d-31a88aaea7d0/r:3145b21b-3dfa-4bb2-9067-a90e250d955e(TempModuledb8772a1-1225-4c06-a11d-31a88aaea7d0/TempModel_435071738941511)">
+            <model ref="0eb95aa2-554a-4500-9e8e-191153d07587/r:321198d8-1b50-445c-95d7-3a689aee7890(TempModule0eb95aa2-554a-4500-9e8e-191153d07587/TempModel_436259250539117)">
               <persistence version="9" />
               <languages>
                 <use id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base" version="0" />
@@ -212,13 +184,13 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="4HBtkiXgOz">
-                <node concept="3balQm" id="4HBtkiXgO$" role="aymYE" />
-                <node concept="2Clz$F" id="4HBtkiXgO_" role="aymYO">
+              <node concept="aymSD" id="4fAIqnY1RnF">
+                <node concept="3balQm" id="4fAIqnY1RnG" role="aymYE" />
+                <node concept="2Clz$F" id="4fAIqnY1RnH" role="aymYO">
                   <property role="TrG5h" value="CommandHolder" />
                 </node>
-                <node concept="2_V_lH" id="4HBtkiXgOA" role="1PhJh3">
-                  <ref role="2_V_lI" node="4HBtkiXgO_" resolve="CommandHolder" />
+                <node concept="2_V_lH" id="4fAIqnY1RnI" role="1PhJh3">
+                  <ref role="2_V_lI" node="4fAIqnY1RnH" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -241,8 +213,8 @@
     </search_options>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="TodoList" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TodoList" pinned="false" current-in-tab="true">
         <entry file="mps://node://TodoDSL.sandbox/TodoDSL.sandbox/TodoList">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -263,7 +235,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:ebe86077-6575-4002-8f97-b2f36c717f43(main@generator)/5200635836353150346" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349018091596" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -278,19 +250,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="map_TodoList" pinned="false" current-in-tab="true">
-        <entry file="mps://node://TodoDSL.xmlGenerator#5200635836353135614/main@generator/map_TodoList">
+      <file leaf-file-name="TodoTabularEditorHint" pinned="false" current-in-tab="false">
+        <entry file="mps://node://TodoDSL.tabularEditor/TodoDSL.tabularEditor.editor/TodoTabularEditorHint">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
               <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="70" />
-                    <property name="caretXRelative" value="0" />
+                    <property name="caretX" value="335" />
+                    <property name="caretXRelative" value="88" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="property_name">
-                      <node node_reference="r:ebe86077-6575-4002-8f97-b2f36c717f43(main@generator)/5200635836353150346" />
+                      <node node_reference="r:c17ca4b0-5df5-471c-9403-baeeb76bc3a2(TodoDSL.tabularEditor.editor)/2246278071055016677" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -299,7 +271,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:ebe86077-6575-4002-8f97-b2f36c717f43(main@generator)/5200635836353150346" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349018091596" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -343,9 +315,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="1027" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -568,6 +539,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Favorites" />
       <pane id="FileSystem">
         <subPane>
           <expand>
@@ -595,20 +567,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fac7a7ee-aafc-4cc5-bd54-f130029dcfc4(TodoDSL.xmlGenerator)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TodoDSL.xmlGenerator#5200635836353135614" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="ae3c42bf-f6a1-47c5-80b7-70d6a4e5d51d" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -623,15 +581,17 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fac7a7ee-aafc-4cc5-bd54-f130029dcfc4(TodoDSL.xmlGenerator)" />
+              <option name="myItemId" value="bed7d1cf-5659-4883-a9c7-6a1c7a4df59c(TodoDSL.tabularEditor)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TodoDSL.xmlGenerator#5200635836353135614" />
+              <option name="myItemId" value="r:c17ca4b0-5df5-471c-9403-baeeb76bc3a2(TodoDSL.tabularEditor.editor) in IdeaFile{file:///Users/lukasz/MPSProjects/TodoLists/languages/TodoDSL.tabularEditor/models/editor.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:ebe86077-6575-4002-8f97-b2f36c717f43(main@generator) in IdeaFile{file:///Users/lukasz/MPSProjects/TodoLists/languages/AlternateTodoGenerator/generator/template/main@generator.mps}" />
+              <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -641,7 +601,17 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fac7a7ee-aafc-4cc5-bd54-f130029dcfc4(TodoDSL.xmlGenerator)" />
+              <option name="myItemId" value="ae3c42bf-f6a1-47c5-80b7-70d6a4e5d51d" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bed7d1cf-5659-4883-a9c7-6a1c7a4df59c(TodoDSL.tabularEditor)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -663,7 +633,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
+          <SELECTED>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
@@ -672,38 +642,21 @@
               <option name="myItemId" value="ae3c42bf-f6a1-47c5-80b7-70d6a4e5d51d" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <SELECTED>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
+              <option name="myItemId" value="TodoDSL" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fac7a7ee-aafc-4cc5-bd54-f130029dcfc4(TodoDSL.xmlGenerator)" />
+              <option name="myItemId" value="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox) in IdeaFile{file:///Users/lukasz/MPSProjects/TodoLists/languages/TodoDSL/sandbox/models/TodoDSL.sandbox.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TodoDSL.xmlGenerator#5200635836353135614" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:ebe86077-6575-4002-8f97-b2f36c717f43(main@generator) in IdeaFile{file:///Users/lukasz/MPSProjects/TodoLists/languages/AlternateTodoGenerator/generator/template/main@generator.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="5200635836353150343" />
+              <option name="myItemId" value="5024649349015006155" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
         </subPane>
       </pane>
-      <pane id="Favorites" />
       <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
         <subPane />
       </pane>
@@ -727,7 +680,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Java Application.Node TodoDSL.sandbox.TodoList$3">
+  <component name="RunManager" selected="Java Application.Node TodoDSL.sandbox.TodoList$3 (2)">
     <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
       <MyState />
       <myJUnitSettings>
@@ -786,6 +739,28 @@
         </MyState>
       </myRunParameters>
     </configuration>
+    <configuration name="Node TodoDSL.sandbox.TodoList$3 (2)" type="Java Application" factoryName="Java" temporary="true">
+      <MyState />
+      <myNode>
+        <MyState>
+          <option name="myNodePointer" value="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015006155" />
+          <option name="myNodeText" value="TodoDSL.sandbox.5024649349015006155" />
+        </MyState>
+      </myNode>
+      <myRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" value="" />
+              <option name="programParameters" value="" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" value="" />
+              <option name="workingDirectory" value="$PROJECT_DIR$" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myRunParameters>
+    </configuration>
     <configuration name="Node TodoDSL.sandbox.TodoList$3 (3)" type="Java Application" factoryName="Java" temporary="true">
       <MyState />
       <myNode>
@@ -809,28 +784,6 @@
       </myRunParameters>
     </configuration>
     <configuration name="Node TodoDSL.sandbox.TodoList$3 (4)" type="Java Application" factoryName="Java" temporary="true">
-      <MyState />
-      <myNode>
-        <MyState>
-          <option name="myNodePointer" value="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015006155" />
-          <option name="myNodeText" value="TodoDSL.sandbox.5024649349015006155" />
-        </MyState>
-      </myNode>
-      <myRunParameters>
-        <MyState>
-          <option name="myJavaRunParameters">
-            <JavaRunParameters>
-              <option name="jrePath" value="" />
-              <option name="programParameters" value="" />
-              <option name="useAlternativeJre" value="false" />
-              <option name="vmOptions" value="" />
-              <option name="workingDirectory" value="$PROJECT_DIR$" />
-            </JavaRunParameters>
-          </option>
-        </MyState>
-      </myRunParameters>
-    </configuration>
-    <configuration name="Node TodoDSL.sandbox.TodoList$3" type="Java Application" factoryName="Java" temporary="true">
       <MyState />
       <myNode>
         <MyState>
@@ -897,19 +850,19 @@
       </myRunParameters>
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3" />
+      <item index="0" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (3)" />
       <item index="1" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.map_TodoList" />
-      <item index="2" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (4)" />
-      <item index="3" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (3)" />
+      <item index="2" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (4)" />
+      <item index="4" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (4)" />
+        <item index="0" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (4)" />
+        <item index="2" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (1)" />
         <item index="3" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.map_TodoList" />
-        <item index="4" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3" />
+        <item index="4" class="java.lang.String" itemvalue="Java Application.Node TodoDSL.sandbox.TodoList$3 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -944,8 +897,8 @@
       <window_info id="Chart" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32160312" sideWeight="0.4375" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3313783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32160312" sideWeight="0.4375" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33235583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33919844" sideWeight="0.39880952" order="2" side_tool="false" content_ui="tabs" />
@@ -966,53 +919,11 @@
       <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Graph Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Visualization" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Diagram Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.48511904" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Menu Trace" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Search" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Tree" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32160312" sideWeight="0.5625" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Context Actions 2" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.44940478" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Chart" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32160312" sideWeight="0.4375" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3313783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33919844" sideWeight="0.39880952" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Code Review" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.4892857" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Graphing" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="mbeddr TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2857143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Trace Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Visualisation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Graph Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UsagesViewTool">
@@ -1026,7 +937,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://TodoDSL#884133048096577896/main@generator/main" />
     <entry file="mps://node://TodoDSL/TodoDSL.structure/&lt;no name&gt;[ConceptDeclaration]" />
     <entry file="mps://node://TodoDSL/TodoDSL.structure/&lt;no name&gt;[ConceptDeclaration]" />
     <entry file="mps://node://TodoDSL/TodoDSL.structure/&lt;no name&gt;[ConceptDeclaration]" />
@@ -1481,6 +1391,74 @@
       </provider>
     </entry>
     <entry file="mps://node://AlternateTodoGenerator#5200635836353135614/main@generator/map_TodoList" />
+    <entry file="mps://node://TodoDSL.xmlGenerator#5200635836353135614/main@generator/map_TodoList">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="47" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_value">
+                  <node node_reference="r:ebe86077-6575-4002-8f97-b2f36c717f43(main@generator)/5200635836353550448" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349015006155" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://TodoDSL.tabularEditor/TodoDSL.tabularEditor.editor/AlternateTodoEditors">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="335" />
+                <property name="caretXRelative" value="88" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:c17ca4b0-5df5-471c-9403-baeeb76bc3a2(TodoDSL.tabularEditor.editor)/2246278071055016677" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349018091596" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
     <entry file="mps://node://TodoDSL.sandbox/TodoDSL.sandbox/TodoList">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -1501,41 +1479,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:ebe86077-6575-4002-8f97-b2f36c717f43(main@generator)/5200635836353150346" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://TodoDSL.xmlGenerator#5200635836353135614/main@generator/map_TodoList">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="70" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
-                  <node node_reference="r:ebe86077-6575-4002-8f97-b2f36c717f43(main@generator)/5200635836353150346" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:ebe86077-6575-4002-8f97-b2f36c717f43(main@generator)/5200635836353150346" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:f2d7ef47-282e-4280-8a37-8ad637e9eced(TodoDSL.sandbox)/5024649349018091596" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
